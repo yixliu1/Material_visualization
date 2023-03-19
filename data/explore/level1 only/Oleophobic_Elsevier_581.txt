@@ -1,0 +1,1414 @@
+1	TiO2	2187	-	-
+2	SiO2	1843	-	-
+3	PVDF	1756	{'PVDF': 1652, 'polyvinylidene fluoride': 54, 'polyvinylidene difluoride': 2, 'Poly(vinylidene fluoride)': 2, 'Poly (vinylidene fluoride)': 3, 'Polyvinylidene fluoride': 17, 'poly (vinylidene fluoride)': 7, 'poly(vinylidene fluoride)': 19}	-
+5	PDMS	1153	{'PDMS': 1038, 'polydimethyl siloxane': 1, 'Polydimethylsiloxane': 14, 'polydimethylsiloxane': 83, 'Poly(dimethylsiloxane)': 2, 'poly(dimethylsiloxane)': 12, 'poly(dimethyl siloxane)': 1, 'polydimethylsiloxanes': 1, 'polydimethysiloxane': 1}	-
+6	silica	1148	-	-
+9	PDA	1085	{'PDA': 829, 'polydopamine': 231, 'Polydopamine': 23, 'poly(dopamine)': 2}	-
+13	ZnO	948	{'ZnO': 893, 'zinc oxide': 46, 'Zinc oxide': 9}	-
+15	PTFE	795	{'PTFE': 708, 'poly(tetrafluoroethylene)': 7, 'polytetrafluoroethylene': 72, 'Polytetrafluoroethylene': 5, 'poly-tetrafluoroethylene': 1, 'polytetrafluroethylene': 1, 'Poly(tetrafluoroethylene)': 1}	-
+21	hydroxyl	572	-	-
+22	PEI	571	{'PEI': 513, 'polyetherimide': 5, 'Polyetherimide': 2, 'poly(ethylenimine)': 5, 'poly(ethyleneimine)': 2, 'polyethyleneimine': 29, 'polyethylenimine': 10, 'Polyethyleneimine': 4, 'Polyethylenimine': 1}	-
+31	PET	380	{'PET': 17, 'polyethylene': 45, 'polyethylene terephthalate': 25, 'polyester': 279, 'density polyethylene': 3, 'poly(ethylene terephthalate)': 2, 'Polyester': 7, 'Polyethylene terephthalate': 1, 'Poly(ethylene terephthalate)': 1}	-
+39	TEOS	325	{'TEOS': 241, 'Tetraethoxysilane': 9, 'tetraethyl orthosilicate': 11, 'tetraethylorthosilicate': 5, 'Tetraethyl orthosilicate': 10, 'tetraethoxysilane': 45, 'Tetraethylorthosilicate': 2, 'tetraorthosilicate': 2}	-
+41	APTES	309	{'APTES': 270, '3-aminopropyl triethoxysilane': 6, '3-Aminopropyltriethoxysilane': 2, 'aminopropyltriethoxysilane': 2, '(3-aminopropyl) triethoxysilane': 2, '3-aminopropyltriethoxysilane': 15, '(3-aminopropyl)triethoxysilane': 8, 'γ-aminopropyltriethoxysilane': 2, '(3-Aminopropyl)triethoxysilane': 1, '(3-Aminopropyl) triethoxysilane': 1}	-
+43	zeolite	287	-	-
+44	CuO	278	{'CuO': 243, 'copper oxide': 33, 'cupric oxide': 2}	-
+50	PFO	256	-	-
+51	fluorocarbon	250	-	-
+54	Cu(OH)2	243	-	-
+56	glycerol	221	-	-
+57	alumina	221	-	-
+58	Al2O3	217	-	-
+59	POSS	214	{'POSS': 197, 'polyhedral oligomeric silsesquioxanes': 7, 'Polyhedral oligomeric silsesquioxane': 2, 'polyhedral oligomeric silsesquioxane': 7, 'Polyhedral oligomeric silsesquioxanes': 1}	-
+61	quartz	206	-	-
+62	SDS	202	{'SDS': 128, 'sodium dodecyl sulphate': 3, 'sodium dodecyl sulfate': 52, 'Sodium dodecyl sulfate': 9, 'sodium dodecyl sulfonate': 6, 'sodium dodecylsulfate': 3, 'Sodium Dodecyl Sulfate': 1}	-
+63	COO	201	{'COO': 37, 'carboxyl': 164}	-
+65	silane	196	-	-
+71	SiO	179	{'SiO': 61, 'siloxane': 118}	-
+72	hydrocarbon	177	-	-
+74	graphene oxide	175	-	-
+75	FAS	172	{'FAS': 66, 'Fluoroalkylsilane': 6, 'fluoroalkylsilane': 64, 'fluorinated alkyl silane': 9, 'fluoroalkylsilanes': 10, 'fluoroalkyl silane': 16, 'Fluoroalkylsilanes': 1}	-
+80	CTAB	160	{'CTAB': 146, 'Cetyltrimethylammonium bromide': 4, 'hexadecyltrimethylammonium bromide': 4, 'cetyltrimethylammonium bromide': 4, 'cetyltrimethyl ammonium bromide': 1, 'Cetyl trimethyl ammonium bromide': 1}	-
+82	amine	158	-	-
+84	PNIPAM	153	{'PNIPAM': 143, 'poly(N-isopropylacrylamide)': 10}	-
+89	PANI	138	{'PANI': 7, 'polyaniline': 120, 'Polyaniline': 11}	-
+92	WO3	130	-	-
+97	fluoroPOS	126	-	-
+98	graphene	124	-	-
+102	ZIF-8	120	{'ZIF-8': 119, 'zeolitic imidazolate framework-8': 1}	-
+104	Fe3O4	119	-	-
+108	epoxy	111	-	-
+112	polyurethane	109	-	-
+113	kaolin	109	-	-
+116	fluorosilane	106	-	-
+118	PAN	104	{'PAN': 64, 'polyacrylonitrile': 35, 'Polyacrylonitrile': 5}	-
+119	fluoroalkyl	104	-	-
+120	polypropylene	104	-	-
+123	Teflon	102	-	-
+126	PDADMAC	99	-	-
+128	Co3O4	98	-	-
+131	catechol	95	-	-
+132	NiO	94	{'NiO': 84, 'nickel oxide': 10}	-
+133	thiol	93	-	-
+134	PEG	91	{'PEG': 57, 'polyethylene glycol': 19, 'poly (ethylene glycol)': 2, 'Polyethylene glycol': 6, 'poly(ethylene glycol)': 7}	-
+135	TDCM	91	-	-
+136	amide	87	-	-
+137	perfluoroalkyl	86	-	-
+138	WO3.H2O	86	-	P
+139	GO-Ca2+-SA	85	-	P
+140	BiVO4	84	-	-
+144	MoS2	83	-	-
+146	acrylate	79	-	-
+147	SiC	78	{'SiC': 54, 'silicon carbide': 21, 'Silicon carbide': 3}	-
+148	carbonyl	78	-	-
+149	zirconia	77	-	-
+153	polystyrene	73	-	-
+154	PEDOT	72	{'PEDOT': 70, 'poly(3,4-ethylenedioxythiophene)': 2}	-
+155	COOH	72	-	-
+156	HMDS	71	{'HMDS': 66, 'Hexamethyldisilazane': 1, 'hexamethyldisilazane': 3, '1,1,1,3,3,3-hexamethyl disilazane': 1}	-
+159	PVDF-P	71	-	P
+160	octane	70	-	-
+163	n-heptane	68	-	-
+165	Tris	67	{'Tris': 45, 'tris(hydroxymethyl) aminomethane': 5, 'tris': 7, 'Tris(hydroxymethyl)aminomethane': 2, 'tris(hydroxymethyl)aminomethane': 5, 'tris(hydroxymethyl)': 3}	-
+166	F-SiO2	66	-	-
+167	MPC-co-AEMA	66	-	P
+172	UiO-66-NH2	64	-	-
+173	Cu(OH)2 NRA	64	-	-
+174	PPy	63	{'PPy': 7, 'Polypyrrole': 6, 'polypyrrole': 50}	-
+183	Silica	60	-	-
+187	QAS	59	{'QAS': 29, 'quaternary ammonium': 30}	-
+188	ester	59	-	-
+189	PAA-g-PVDF	59	-	-
+191	PVDF-1	59	-	-
+194	Cu2O	58	-	-
+196	PAH	57	{'PAH': 53, 'poly(allylamine hydrochloride)': 3, 'polyallylamine hydrochloride': 1}	-
+198	hydrate	57	-	-
+199	mullite	56	-	-
+200	HEMA	55	{'HEMA': 45, 'hydroxyethyl methacrylate': 3, '2-hydroxyethyl methacrylate': 7}	-
+201	DMSO	55	{'DMSO': 33, 'dimethyl sulfoxide': 20, 'Dimethyl sulfoxide': 1, 'dimethylsulfoxide': 1}	-
+203	silanol	55	-	-
+205	C-POSS	55	-	P
+207	oxide	53	-	-
+208	hydrocarbons	53	-	-
+211	ACF	53	-	-
+216	Si-O-Si	52	-	-
+218	MgO	51	{'MgO': 49, 'magnesium oxide': 1, 'Magnesium oxide': 1}	-
+222	PVAc	50	{'PVAc': 47, 'polyvinyl acetate': 2, 'poly(vinyl acetate)': 1}	-
+224	epoxy resin	50	-	-
+225	F-POSS	49	-	-
+226	F-APP-TiO2	49	-	-
+227	Si3N4	49	-	-
+230	PS-SO3H	48	-	P
+231	SiO2-g-PS	48	-	P
+232	PFOS	47	{'PFOS': 25, 'trichloro(1H,1H,2H,2H-perfluorooctyl)silane': 11, 'perfluorooctane sulfonate': 4, 'perfluorooctanesulfonic acid': 5, 'perfluorooctanesulfonate': 2}	-
+234	SBMA	47	{'SBMA': 43, 'Sulfobetaine methacrylate': 2, 'sulfobetaine methacrylate': 2}	-
+235	BiOBr	47	{'BiOBr': 47}	-
+236	CuS	47	{'CuS': 46, 'copper sulfide': 1}	-
+238	ether	46	-	-
+239	polyamide	46	-	-
+240	titania	46	-	-
+241	graphite	46	-	-
+242	NaIO4	46	-	P
+243	SeP	46	-	P
+245	fluoropolymers	45	-	-
+246	NiCo2O4	45	-	P
+247	2H	45	-	-
+249	PFDTES	44	{'PFDTES': 15, '1H,1H,2H,2H-perfluorodecyltriethoxysilane': 20, 'perfluorodecyltriethoxysilane': 6, '1H,1H,2H,2H-Perfluorodecyltriethoxysilane': 3}	-
+250	MnO2	44	-	-
+252	carbon tetrachloride	44	-	-
+253	methylene	44	-	-
+254	PFA	43	{'PFA': 43}	-
+255	PFPE	43	{'PFPE': 16, 'perfluoropolyether': 26, 'Perfluoropolyether': 1}	-
+256	urea	43	-	-
+257	n-octane	43	-	-
+258	PFE	43	-	-
+259	urethane	43	-	-
+260	PEEK-OH	43	-	P
+261	Ti3C2Tx	43	-	-
+263	PCL	42	{'PCL': 36, 'polycaprolactone': 5, 'poly(ε-caprolactone)': 1}	-
+265	poly(OEGMA)	42	-	P
+266	g-C3N4	42	-	-
+267	PSBMA	41	{'PSBMA': 34, 'poly(sulfobetaine methacrylate)': 7}	-
+268	DMAEMA	41	{'DMAEMA': 36, '2-(dimethylamino)ethyl methacrylate': 3, '2-(dimethylamino) ethyl methacrylate': 1, 'N,N-dimethylaminoethyl methacrylate': 1}	-
+270	alkanes	41	-	-
+271	ammonium hydroxide	41	-	-
+273	metal oxides	40	-	-
+274	PEPA	40	-	P
+275	cellulose acetate	40	-	-
+276	PTFE-4	40	-	P
+278	IPDI	39	{'IPDI': 34, 'Isophorone diisocyanate': 4, 'isophorone diisocyanate': 1}	-
+280	oxides	39	-	-
+281	Schiff base	39	-	-
+282	Ni(OH)2	39	-	-
+283	Hexadecane	39	-	-
+284	formamide	39	-	-
+285	Zr(OH)4·nH2O	39	-	-
+287	carboxylate	38	-	-
+288	m−2h−1	38	-	-
+289	n-dodecane	38	-	-
+290	PVDF-POSS-NH2	38	-	P
+292	Tween-80	38	-	-
+294	F-Silane-C10	38	-	P
+295	perfluoro	38	-	-
+296	SH-F-POSS	38	-	P
+301	AIBN	37	{'AIBN': 31, 'Azobisisobutyronitrile': 2, 'azobisisobutyronitrile': 2, 'Azodiisobutyronitrile': 2}	-
+302	TEPA	37	{'TEPA': 37}	P
+303	PAM	37	{'PAM': 8, 'polyacrylamide': 28, 'Polyacrylamide': 1}	P
+304	EDOT	37	{'EDOT': 32, '3,4-ethylenedioxythiophene': 5}	-
+305	ethyl acetate	37	-	-
+306	NaA	37	-	-
+307	Nafion	37	-	-
+309	Pal	36	{'Pal': 1, 'palygorskite': 28, 'Palygorskite': 7}	-
+311	halloysite	36	-	-
+312	P(MMA-co-GMA)	36	-	P
+313	PES	35	{'PES': 12, 'polyethersulfone': 15, 'Polyethersulfone': 1, 'poly(ether sulfone)': 1, 'polyether sulfone': 5, 'Polyether sulfone': 1}	-
+314	PPO	35	{'PPO': 1, 'polypropylene oxide': 1, 'polyphenol': 33}	-
+315	LCA	35	-	-
+316	metal oxide	35	-	-
+317	GPTE	35	-	P
+318	PA-Sn	35	-	P
+321	nano-silica	35	-	-
+322	PDopa	35	-	-
+323	Mn+	35	-	-
+324	PFAAs	35	-	P
+325	PFDTCS	35	-	-
+326	PFN	35	-	P
+327	FITC	34	{'FITC': 29, 'Fluorescein isothiocyanate': 1, 'fluorescein isothiocyanate': 4}	-
+328	CCl4	34	-	-
+329	PVPA·nNa	34	-	-
+330	NIPS	34	-	-
+331	-decane	34	-	-
+334	OTMS	33	{'OTMS': 25, 'octadecyltrimethoxysilane': 7, 'Octadecyltrimethoxysilane': 1}	-
+335	ITO	33	{'ITO': 27, 'indium tin oxide': 5, 'Indium tin oxide': 1}	-
+336	SiOx	33	{'SiOx': 22, 'silicon oxide': 11}	-
+337	Graphene oxide	33	-	-
+338	fluoride	33	-	-
+339	C-N	33	-	-
+341	fluoroacrylic	33	-	-
+347	tetradecane	32	-	-
+348	Dopamine hydrochloride	32	-	-
+349	PVC	31	{'PVC': 27, 'polyvinyl chloride': 2, 'poly(vinyl chloride)': 2}	-
+350	PSf	31	{'PSf': 5, 'Polysulfone': 7, 'polysulfone': 19}	-
+351	STO	31	{'STO': 31}	-
+353	Ethanol	31	-	-
+354	C-C	31	-	-
+355	SiOH	31	-	-
+356	Tris-HCl	31	-	-
+357	ARATP	31	-	P
+358	Capstone	31	-	-
+359	S-side	31	-	P
+362	NaBH4	30	{'NaBH4': 23, 'sodium borohydride': 7}	-
+363	organosiloxane	30	-	-
+365	polycarbonate	30	-	-
+366	phosphate	30	-	-
+367	carboxylic	30	-	-
+368	glutaraldehyde	30	-	P
+369	persulfate	30	-	-
+371	methyl blue	30	-	-
+372	tetrachloromethane	30	-	-
+373	RC	30	-	P
+374	F-VP	30	-	P
+375	PFHD	30	-	P
+376	Ar-SiO2	30	-	P
+377	RF-(VM-SiO2) n -RF	30	-	P
+378	PFOTS	29	{'PFOTS': 16, '1H, 1H, 2H, 2H-perfluorooctyltrichlorosilane': 2, '1H,1H,2H,2H-perfluorooctyltrichlorosilane': 11}	-
+380	dopamine hydrochloride	29	-	-
+381	carnauba wax	29	-	-
+382	NH2-ZIF-8	29	-	P
+384	PVA-Si-GA	29	-	P
+385	DDT	28	{'DDT': 24, 'dodecanethiol': 1, '1-dodecanethiol': 3}	-
+386	PFH	28	{'PFH': 22, 'perfluorohexane': 6}	-
+387	bentonite	28	-	-
+388	titanium dioxide	28	-	-
+389	-CF2	28	-	-
+391	organosilanes	28	-	-
+393	L-lysine	28	-	P
+394	C-H	27	-	-
+395	F element	27	-	-
+396	PDADMAC-Al2O3	27	-	P
+397	Na2SiO3	27	-	-
+399	phenol	27	-	-
+400	boron	27	-	-
+401	beeswax	27	-	-
+402	zeolite-15	27	-	-
+403	MF-SiO2	27	-	P
+404	PVB	26	{'PVB': 25, 'Polyvinyl butyral': 1}	-
+405	C=O	26	-	-
+407	Si-O	26	-	-
+408	carbons	26	-	-
+409	Span 80	26	-	-
+410	CAHs	26	-	-
+411	alkane	26	-	-
+413	H3PO4	26	-	-
+415	PAN-OH	26	-	P
+416	PDMS-CS	26	-	P
+417	TiO2*15	26	-	-
+418	SB-A-B-CF	26	-	P
+419	TiO	25	{'TiO': 17, 'titanium oxide': 8}	-
+420	PDDA	25	{'PDDA': 16, 'poly(diallyldimethylammonium chloride)': 6, 'polydiallyldimethylammonium chloride': 2, 'Poly(diallyldimethylammonium chloride)': 1}	-
+421	ODA	25	{'ODA': 12, 'octadecylamine': 11, 'Octadecylamine': 2}	-
+422	MTES	25	{'MTES': 9, 'methyltriethoxysilane': 13, 'Methyltriethoxysilane': 3}	-
+423	TMA	25	{'TMA': 14, 'trimethylaluminum': 9, 'Trimethylaluminum': 1, 'trimethylamine': 1}	-
+424	O element	25	-	-
+425	polyphenols	25	-	-
+426	Aluminum	25	-	-
+427	acetonitrile	25	-	P
+429	M-PVDF	25	-	P
+431	PDOPA	25	-	-
+432	methylphenyl silicone	25	-	-
+433	SBA-15	25	-	-
+434	CaCO 3 @PDA	25	-	P
+435	Cab-O-Sil M5	25	-	P
+436	SB-A-CF	25	-	P
+437	Pro	24	{'Pro': 24}	-
+438	PPD	24	{'PPD': 22, 'p-phenylenediamine': 2}	-
+439	PFDT	24	{'PFDT': 15, '1H,1H,2H,2H-perfluorodecanethiol': 9}	-
+441	POTS	24	{'POTS': 7, '1H, 1H, 2H, 2H-perfluorooctyltriethoxysilane': 3, '1H,1H,2H,2H-perfluorooctyltriethoxysilane': 8, 'perfluorooctyltriethoxysilane': 6}	-
+442	DTAB	24	{'DTAB': 21, 'dodecyltrimethylammonium bromide': 3}	P
+443	silicate	24	-	-
+444	N-H	24	-	-
+445	The element	24	-	-
+446	Na2CO3	24	-	-
+449	fumed silica	24	-	-
+450	paraffin wax	24	-	-
+451	PFOTES	24	-	-
+452	BPSH100	24	-	P
+453	calomel	24	-	-
+454	PDMS-ZnO-PDMS	24	-	-
+455	Na2B4O7	24	-	P
+456	PVA-Si	24	-	P
+457	fluoropolymer–SiO2	24	-	P
+458	fluorinated alkyl	23	-	-
+459	OCO	23	-	-
+460	Acetone	23	-	-
+461	aluminum oxide	23	-	-
+462	quinone	23	-	-
+463	KMnO4	23	-	-
+465	PFAC	23	-	-
+466	SiO2-SH	23	-	P
+467	NP-20	23	-	P
+468	HDTMS	22	{'HDTMS': 10, 'Hexadecyltrimethoxysilane': 1, 'hexadecyltrimethoxysilane': 11}	-
+469	MTMS	22	{'MTMS': 11, 'Methyltrimethoxysilane': 3, 'methyltrimethoxysilane': 8}	-
+470	PNIPAAm	22	{'PNIPAAm': 20, 'Poly(N-isopropylacrylamide)': 1, 'poly(N-isopropyl acrylamide)': 1}	-
+471	APT	22	{'APT': 6, 'attapulgite': 16}	P
+474	NaHCO3	22	{'NaHCO3': 22}	-
+475	Si-OH	22	-	-
+476	trichlorosilane	22	-	-
+478	MAc(PTFMS-alt-PDMS)	22	-	P
+479	C4F8	22	-	-
+480	CH8	22	-	P
+481	DMAP	21	{'DMAP': 12, '4-dimethylaminopyridine': 6, '4-(dimethylamino) pyridine': 1, '4-(dimethylamino)pyridine': 2}	-
+482	FAD	21	{'FAD': 21}	-
+484	paraffin oil	21	-	-
+485	Kaolin	21	-	-
+486	Tween	21	-	-
+487	hydroxy	21	-	-
+489	silica gel	21	-	-
+490	CuX	21	-	-
+491	methylbenzene	21	-	-
+492	-CF2-	21	-	-
+493	Hart	21	-	-
+494	diethyl ether	21	-	-
+495	Sodium hydroxide	21	-	-
+496	NaClO2	21	-	-
+497	M-PMMA	21	-	-
+498	SQ-NP	21	-	P
+499	G-II	21	-	P
+500	PEO	20	{'PEO': 17, 'poly (ethylene oxide)': 1, 'poly(ethylene oxide)': 1, 'polyethylene oxide': 1}	-
+501	NH4F	20	{'NH4F': 15, 'ammonium fluoride': 5}	-
+502	DOPA	20	{'DOPA': 16, '3,4-dihydroxy-l-phenylalanine': 1, '3,4-dihydroxy-L-phenylalanine': 2, '3,4-dihydroxyphenylalanine': 1}	-
+504	DEG	20	{'DEG': 1, 'diethylene glycol': 17, 'Diethylene glycol': 2}	-
+505	DMMP	20	{'DMMP': 19, 'dimethyl methylphosphonate': 1}	P
+506	SBR	20	{'SBR': 19, 'styrene-butadiene rubber': 1}	P
+507	Oil Red O	20	-	-
+508	sulfonate	20	-	-
+510	ZrO2	20	-	-
+512	fluorinated carbon	20	-	-
+513	phenolic hydroxyl	20	-	-
+514	oligoamides	20	-	-
+515	Dopamine	20	-	-
+516	zeolites	20	-	-
+517	silicone-acrylate	20	-	-
+518	CH2I2	20	-	-
+519	P25-Zonyl 9977 fabric	20	-	P
+520	PAL	20	-	P
+521	methylchlorosilane	20	-	-
+522	Cab-O-Sil EH5	20	-	P
+523	LDPE	19	{'LDPE': 17, 'low density polyethylene': 2}	-
+526	chloride	19	-	-
+527	ZIF-L	19	-	P
+528	polyimide	19	-	-
+529	phenolic	19	-	-
+530	fluorocarbons	19	-	-
+531	polyacrylate	19	-	-
+532	fluorinated silane	19	-	-
+533	Tris buffer	19	-	-
+536	polyol	19	-	-
+537	triethoxysilane	19	-	-
+538	fluorodecyl	19	-	-
+539	fluorinated silica	19	-	-
+540	stearyl acrylate	19	-	P
+541	NP-60	19	-	P
+542	MPTMS-SiO2	19	-	P
+543	zirconium hydroxide	19	-	-
+544	P[(S)81-co-(S-MOM-C9F19)19]	19	-	P
+545	EDA	18	{'EDA': 3, 'Ethylenediamine': 2, 'ethylenediamine': 11, 'ethylene diamine': 2}	-
+546	APP	18	{'APP': 8, 'Ammonium polyphosphate': 1, 'ammonium polyphosphate': 9}	-
+547	OTS	18	{'OTS': 7, 'Octadecyltrichlorosilane': 1, 'octadecyltrichlorosilane': 8, 'trichloro(octadecyl)silane': 2}	-
+548	TFA	18	{'TFA': 6, 'trifluoroacetic acid': 12}	-
+549	Methylene blue	18	-	-
+550	phenyl	18	-	-
+551	PFONa	18	-	-
+553	Cu2S	18	-	-
+554	COH	18	-	-
+555	O-H	18	-	-
+556	MnCo2O4	18	-	P
+557	vinyl	18	-	-
+558	PEEK-OH textile	18	-	P
+559	PFNA	18	-	P
+560	silsesquioxane	18	-	-
+561	P-TMPS	18	-	P
+562	FeIII	18	-	-
+563	Na-Ac	18	-	P
+564	alkoxide	18	-	-
+565	VTMS-SiO2	18	-	P
+566	SHCF	18	-	P
+570	Polyimide	17	-	-
+572	aldehyde	17	-	-
+576	Hexane	17	-	-
+577	N-hexane	17	-	-
+578	petrol	17	-	-
+579	polysiloxane	17	-	-
+580	Sand	17	-	-
+582	(NH4)2S2O8	17	-	-
+583	TiIV	17	-	-
+584	crystal violet	17	-	-
+585	Gasoline	17	-	P
+586	PDA-Ca	17	-	P
+587	UDCA	17	-	P
+588	SiO2-S-DMAEMA	17	-	P
+589	SA n-decane	17	-	P
+590	PDES	17	-	-
+591	Cab-O-Sil	17	-	-
+592	SB-CF	17	-	P
+593	P(SBMA-co-HEA)	17	-	P
+594	CA-CHI-CF	17	-	P
+595	COC	16	{'COC': 16}	-
+596	DBTDL	16	{'DBTDL': 4, 'dibutyltin dilaurate': 8, 'Dibutyltin dilaurate': 4}	-
+597	methoxy	16	-	-
+598	OCA	16	-	-
+599	galloyl	16	-	P
+600	organosilane	16	-	-
+601	silicon dioxide	16	-	-
+603	butyl acetate	16	-	-
+607	metal-polyphenol	16	-	P
+608	F-FS-SiO2	16	-	P
+610	Zn(NO3)2·6H2O	16	-	-
+611	Zeolite	16	-	-
+612	silica sol	16	-	-
+613	Al(OH)3	16	-	-
+614	azido	16	-	P
+615	TFD-co-TFE	16	-	P
+616	N-side	16	-	P
+617	HD-SiO2	16	-	P
+619	VTES	15	{'VTES': 7, 'Vinyltriethoxysilane': 3, 'vinyltriethoxysilane': 5}	-
+620	VTMS	15	{'VTMS': 2, 'vinyltrimethoxysilane': 11, 'Vinyltrimethoxysilane': 2}	-
+621	Fe2O3	15	-	-
+622	sodium periodate	15	-	-
+623	ZnCl2	15	-	-
+625	EDS	15	-	-
+626	Toluene	15	-	-
+627	superoxide	15	-	-
+630	hydroxides	15	-	-
+631	pyrogallol	15	-	-
+632	γ O A	15	-	-
+633	Cu(NO3)2	15	-	-
+634	2xCOOH	15	-	P
+635	SiO2-DS-6	15	-	P
+636	organohydrogel	15	-	P
+637	PEI-5-CNT-PVDF	15	-	P
+638	F-butyl	15	-	-
+639	Mg(OH)2	15	-	-
+640	borax	15	-	-
+641	HNTs-SH-F	15	-	-
+642	CBD	15	-	-
+643	MXene	15	-	-
+644	304SSFM-24hLPD	15	-	P
+645	SB-F	15	-	P
+646	pyrene	15	-	-
+647	HYFLON	15	-	P
+648	silicomanganese	15	-	P
+650	NH4OH	14	-	-
+651	m-2h−1	14	-	-
+653	FeCl3·6H2O	14	-	-
+654	Titanium dioxide	14	-	-
+655	2VP	14	-	-
+656	CN	14	-	-
+658	chlorobenzene	14	-	-
+659	Aerosil	14	-	-
+660	polyolefin	14	-	-
+661	COO−	14	-	-
+662	Cu3(PO4)2	14	-	P
+663	Triton X-100	14	-	-
+665	ICM	14	-	P
+666	F-NP	14	-	P
+667	SBR-g-Zonyl TA-N	14	-	P
+668	NMCP	14	-	-
+669	FLUOROLINK	14	-	P
+670	ECH	13	{'ECH': 5, 'epichlorohydrin': 8}	P
+671	PPS	13	{'PPS': 5, 'polyphenylene sulfide': 6, 'Polyphenylene sulfide': 2}	-
+672	PEGDA	13	{'PEGDA': 8, 'poly(ethylene glycol) diacrylate': 4, 'polyethylene glycol diacrylate': 1}	-
+673	PETA	13	{'PETA': 11, 'pentaerythritol triacrylate': 1, 'Pentaerythritol triacrylate': 1}	-
+674	MPTES	13	{'MPTES': 8, '3-mercaptopropyltriethoxysilane': 5}	-
+675	PUA	13	{'PUA': 2, 'polyurethane acrylate': 11}	-
+676	sodium perfluorooctanoate	13	-	-
+677	petroleum	13	-	-
+679	glycol	13	-	-
+680	acetyl	13	-	-
+682	ATR	13	-	-
+683	OEWC	13	-	P
+685	polyesters	13	-	-
+686	polyurethane sponge	13	-	-
+687	acrylic terpolymer	13	-	-
+689	iron oxide	13	-	-
+690	-COOH	13	-	-
+691	NH3-C-P-U	13	-	P
+692	polyurethanes	13	-	P
+693	Quartz	13	-	-
+695	wurtzite	13	-	-
+696	poly(diallyldimethylammonium)	13	-	-
+698	fluorodecyl POSS	13	-	-
+699	PCL-b-PTFOA	13	-	-
+700	P25-Zonyl 9977	13	-	P
+701	1H, 1H, 2H, 2H-perfluorodecyltriethoxysilane	13	-	-
+702	29Si	13	-	-
+703	STA-Zn	13	-	-
+704	P-E-B-F	13	-	P
+705	PFMBA	13	-	P
+706	NaBF4	13	-	-
+707	1-heptanol	13	-	P
+708	fluorinated siloxane	13	-	P
+709	nickel oxalate	13	-	P
+710	P[(S)63-co-(S-MOM-C9F19)37]	13	-	P
+711	PFTS	12	{'PFTS': 6, '1H,1H,2H,2H-perfluorodecyltrichlorosilane': 6}	-
+712	NIPAM	12	{'NIPAM': 8, 'N-isopropylacrylamide': 4}	-
+713	MMT	12	{'MMT': 3, 'montmorillonite': 7, 'Montmorillonite': 2}	-
+714	PTA	12	{'PTA': 12}	-
+715	esters	12	-	-
+717	polyamines	12	-	P
+718	Chloroform	12	-	-
+719	fluorosilanes	12	-	-
+720	THF-peroxide	12	-	P
+721	transition metal	12	-	-
+722	sodium silicate	12	-	-
+723	Ammonia	12	-	-
+724	Melamine	12	-	-
+727	PVDF-CA	12	-	P
+728	tungsten oxide	12	-	-
+729	Sodium alginate	12	-	-
+730	2-dichloroethane	12	-	-
+731	calcium alginate	12	-	-
+732	Polypropylene	12	-	-
+733	silver nitrate	12	-	-
+734	octylamine	12	-	-
+735	hydrogen titanate	12	-	P
+736	-CN	12	-	-
+737	poly-pseudorotaxane	12	-	P
+740	Z-CTAB	12	-	P
+741	SiCH3	12	-	-
+742	Co(OH)2	12	-	-
+744	B-PMMA	12	-	-
+745	pDA-SBA-15	12	-	P
+746	EVOh	12	-	P
+747	NiCl2·6H2O	12	-	-
+748	α-bromonaphthalene	12	-	-
+749	Py+	12	-	P
+750	methylene iodide	12	-	-
+751	SBR-g-Zonyl	12	-	P
+752	sodium carboxymethyl	12	-	P
+753	MTEOS	12	-	-
+754	PEDOT–S–F4	12	-	P
+755	acetone-d6	12	-	P
+756	SiCH2	12	-	-
+757	P[(S)96-co-(S-MOM-C9F19)4]	12	-	P
+758	MPD	11	{'MPD': 10, 'm-phenylenediamine': 1}	-
+759	ProDOT	11	{'ProDOT': 4, '3,4-propylenedioxythiophene': 7}	P
+760	TBOT	11	{'TBOT': 7, 'Tetrabutyl orthotitanate': 2, 'tetrabutyl orthotitanate': 2}	-
+761	DETA	11	{'DETA': 8, 'diethylenetriamine': 2, 'Diethylenetriamine': 1}	-
+763	TPAOH	11	{'TPAOH': 9, 'tetrapropylammonium hydroxide': 2}	P
+764	EDC	11	{'EDC': 5, 'N-(3-Dimethylaminopropyl)-N-ethylcarbodiimide hydrochloride': 1, 'N-(3-dimethylaminopropyl)-N′-ethylcarbodiimide hydrochloride': 3, '1-ethyl-3-(3-dimethylaminopropyl)carbodiimide': 2}	-
+765	K	11	{'K': 4, 'potassium': 7}	-
+766	TFE	11	{'TFE': 2, 'tetrafluoroethylene': 5, 'trifluoroethanol': 4}	-
+767	sulfonic	11	-	-
+768	C2H5OH	11	-	-
+769	Alumina	11	-	-
+770	amines	11	-	-
+772	Span	11	-	P
+773	potassium hydroxide	11	-	-
+774	TA-Fe	11	-	-
+776	Graphene	11	-	-
+777	C˭O	11	-	-
+778	alkoxysilane	11	-	-
+779	TiO2-Cu	11	-	-
+780	C element	11	-	-
+781	Graphite	11	-	-
+783	N element	11	-	-
+784	diamine	11	-	-
+785	perfluorinated silane	11	-	-
+786	borosilicate	11	-	-
+787	γ S d	11	-	-
+789	CH3COOH	11	-	-
+790	-NH2	11	-	-
+791	Diamond	11	-	-
+792	h-PAN	11	-	P
+793	CHCl3	11	-	-
+794	Sudan Red	11	-	-
+795	butyl acrylate	11	-	-
+796	one time	11	-	-
+797	DEHS	11	-	P
+798	F127–F16-TA 3‰	11	-	P
+799	C6F13	11	-	P
+800	DMSO-d	11	-	-
+801	Zonyl 9977	11	-	P
+802	cetyl	11	-	P
+803	PEMA	11	-	-
+804	sapphire	11	-	-
+805	PVA-co-PE	11	-	-
+806	PDMS-B	11	-	-
+807	PDMS-A	11	-	-
+808	chlorosilane	11	-	-
+809	h-SiO2	11	-	P
+810	PProDOT-F4	11	-	P
+811	(VM) n -RF oligomer	11	-	P
+812	SO2	11	-	-
+813	KCN	11	-	-
+814	UWSOCF	11	-	P
+815	DCA	10	{'DCA': 10}	-
+816	PLLA	10	{'PLLA': 3, 'poly(L-lactide)': 2, 'poly(l-lactide)': 1, 'poly(L-lactic acid)': 2, 'poly(l-lactic acid)': 2}	-
+817	MPTMS	10	{'MPTMS': 6, '3-mercaptopropyltrimethoxysilane': 1, '(3-mercaptopropyl)trimethoxysilane': 3}	-
+818	KBr	10	{'KBr': 5, 'potassium bromide': 5}	-
+820	BET	10	{'BET': 5, 'Brunauer-Emmett-Teller': 5}	-
+821	α-CD	10	{'α-CD': 9, 'α-cyclodextrin': 1}	P
+822	MTBE	10	{'MTBE': 9, 'methyl tert-butyl ether': 1}	P
+823	TMOS	10	{'TMOS': 5, 'tetramethyl orthosilicate': 1, 'tetramethoxysilane': 4}	-
+824	PMAA	10	{'PMAA': 7, 'poly(methacrylic acid)': 3}	-
+825	Am	10	{'Am': 10}	-
+826	KPS	10	{'KPS': 5, 'potassium persulfate': 5}	-
+827	TEMPO	10	{'TEMPO': 8, '2,2,6,6-tetramethylpiperidine-1-oxyl': 1, '2,2,6,6-tetramethyl-1-piperidinyloxy': 1}	-
+828	BPO	10	{'BPO': 6, 'Benzoyl peroxide': 2, 'benzoyl peroxide': 2}	-
+829	FEP	10	{'FEP': 4, 'fluorinated ethylene propylene': 4, 'Fluorinated ethylene propylene': 2}	-
+830	DTG	10	-	-
+831	PSF	10	-	-
+832	acetate	10	-	-
+833	pyridine	10	-	-
+834	CuCl2	10	-	-
+835	thiols	10	-	-
+836	alkyne	10	-	P
+837	potassium permanganate	10	-	-
+838	Si element	10	-	-
+841	Cellulose acetate	10	-	-
+842	methyl orange	10	-	P
+843	graphitic	10	-	-
+844	hydrazine	10	-	-
+845	O 1s	10	-	-
+846	Co3O4 NWC	10	-	-
+847	tween 80	10	-	P
+848	AHCH	10	-	-
+849	Polyurethane	10	-	-
+850	Polystyrene	10	-	-
+853	alkoxy	10	-	-
+854	perfluorodecyltrichlorosilane	10	-	-
+855	aluminum hydroxide	10	-	-
+856	nitrocellulose	10	-	-
+857	ZIF	10	-	-
+858	c-TiO2	10	-	-
+859	EDOP	10	-	P
+860	PFOT	10	-	P
+861	Z-CTAB-PFOT	10	-	P
+862	semi-IPN	10	-	P
+863	melamine formaldehyde	10	-	-
+864	AM-co-AA	10	-	P
+865	poly(arylene ether nitrile)	10	-	P
+866	Si3N4-1	10	-	P
+867	Si3N4-FPU-2	10	-	P
+868	304SSFM-24hLPD-FAS	10	-	P
+869	PDMS diol	10	-	P
+870	μP-SiNW-A	10	-	P
+871	250MHz	10	-	P
+872	PDMS-h	10	-	P
+873	biphenylene	10	-	P
+874	MT-CS-FP-silica	10	-	-
+875	AISI 440C steel	10	-	P
+876	P2VP	9	{'P2VP': 9}	-
+877	TMS	9	{'TMS': 4, 'tetramethylsilane': 5}	-
+878	EGDMA	9	{'EGDMA': 6, 'ethylene glycol dimethacrylate': 3}	-
+879	PSS	9	{'PSS': 5, 'poly(styrene sulfonate)': 1, 'poly(sodium 4-styrenesulfonate)': 1, 'poly(styrenesulfonate)': 2}	-
+880	TETA	9	{'TETA': 8, 'triethylenetetramine': 1}	-
+882	OTES	9	{'OTES': 5, 'octyltriethoxysilane': 3, 'n-octyltriethoxysilane': 1}	-
+883	PMC	9	{'PMC': 4, 'perfluoroalkyl methacrylic copolymer': 5}	-
+884	KGM	9	{'KGM': 8, 'Konjac glucomannan': 1}	-
+885	DEA	9	{'DEA': 2, 'diethanolamine': 6, 'Diethanolamine': 1}	-
+886	chlorosilanes	9	-	-
+887	SnO2	9	-	-
+889	Fe+3	9	-	-
+890	acrylic resin	9	-	-
+891	metal-phenolic	9	-	-
+892	azide	9	-	P
+893	Oh	9	-	-
+894	Fluorocarbon	9	-	-
+895	acrylates	9	-	-
+896	organosiloxanes	9	-	-
+897	C4F9	9	-	P
+898	heritage	9	-	-
+899	calcite	9	-	-
+900	silicones	9	-	-
+901	H2N-PDMS-NH2	9	-	P
+902	Co3+	9	-	-
+904	Rame	9	-	-
+905	Silane	9	-	-
+906	θ O	9	-	-
+907	Dodecane	9	-	-
+908	aqua regia	9	-	-
+910	Ti(OBu)4	9	-	-
+911	ammonia aqueous	9	-	-
+912	PDMAEMA	9	-	-
+913	PVPA	9	-	-
+914	ethoxy	9	-	-
+915	folic acid	9	-	P
+916	nitrobenzene	9	-	P
+917	transition metals	9	-	-
+918	dipole-hydrogen	9	-	P
+919	perfluorocarbon	9	-	-
+920	Pluronic F127	9	-	-
+921	imine	9	-	-
+922	PZ	9	-	-
+923	PDMS-E-W	9	-	-
+924	sodium carboxylate	9	-	-
+925	fluorinated alcohol	9	-	-
+926	CAPT	9	-	P
+927	C HCl	9	-	P
+928	4OFP - 4TMS POSS	9	-	P
+929	8OFP - 0TMS POSS	9	-	P
+930	PVDF-g-PDMAEMA	9	-	P
+931	silanols	9	-	-
+932	aryl	9	-	-
+933	pentane	9	-	-
+934	FrO	9	-	P
+935	P-B-F	9	-	P
+936	thiophene	9	-	-
+937	NIL	9	-	-
+938	silica AR	9	-	-
+939	cobalt-oxide	9	-	P
+940	copper-oxide	9	-	P
+941	silicalite-1	9	-	P
+942	50MHz 13C	9	-	P
+943	CTHFA	9	-	P
+944	F-urethane	9	-	P
+945	n-octyl isocyanate	9	-	P
+946	PRO B	9	-	P
+947	boronate ester	9	-	P
+948	Cf	8	{'Cf': 8}	-
+949	MEK	8	{'MEK': 3, 'methyl ethyl ketone': 5}	-
+950	PGMA	8	{'PGMA': 7, 'poly(glycidyl methacrylate)': 1}	-
+952	Lys	8	{'Lys': 7, 'lysine': 1}	-
+953	PBZ	8	{'PBZ': 3, 'polybenzoxazine': 5}	P
+954	BPA	8	{'BPA': 2, 'bisphenol A': 6}	-
+955	NHS	8	{'NHS': 4, 'N-hydroxysuccinimide': 1, 'N-Hydroxysuccinimide': 1, 'N-hydroxysulfosuccinimide': 1, 'N-hydroxy succinimide': 1}	-
+956	CSH	8	{'CSH': 2, 'calcium silicate hydrate': 6}	-
+957	methylene chloride	8	-	-
+958	cetane	8	-	-
+959	dimethicone	8	-	P
+960	bore	8	-	-
+961	water-ethanol	8	-	-
+962	C6H14	8	-	-
+963	θ H	8	-	-
+964	Halloysite	8	-	-
+965	CS–SiO2	8	-	P
+966	SU-8	8	-	-
+967	non-fluorine	8	-	-
+968	Ti element	8	-	-
+969	sodium acetate	8	-	P
+970	fluorinated SiO2	8	-	-
+971	pDA	8	-	-
+972	POSS-NH2	8	-	P
+973	n-pentane	8	-	-
+974	triazine	8	-	-
+975	JC20001	8	-	-
+977	ClO4	8	-	-
+978	Attapulgite	8	-	-
+979	secondary amine	8	-	-
+981	Oil red O	8	-	P
+982	silicone rubber	8	-	-
+983	Kampa	8	-	P
+984	2-mercaptoacetic acid	8	-	P
+985	perfluorooctanoate	8	-	-
+986	L-Dopa	8	-	-
+987	tannin	8	-	-
+988	trimethoxysilane	8	-	-
+990	C 1s and O 1s	8	-	-
+991	DMAC	8	-	-
+992	tween-80	8	-	P
+993	NaNO3	8	-	-
+994	TiO2-PVPA·nNa	8	-	-
+995	poly(vinylidene fluoride-co-hexafluoropropylene)	8	-	-
+996	PH-RC-1Z	8	-	P
+998	HS(CH2)11OH	8	-	-
+999	guar gum	8	-	-
+1000	fluorinated silanes	8	-	-
+1001	KH560	8	-	-
+1002	Z-CTAB-PFOT-NaCl-AgNPs	8	-	P
+1003	4-APDS	8	-	P
+1004	bromide	8	-	-
+1005	TMPMA	8	-	P
+1006	silicone acrylic	8	-	-
+1007	hexamethylene	8	-	-
+1008	biotin	8	-	-
+1010	Ti(IV)	8	-	-
+1011	PEGA	8	-	P
+1013	STRIPIN	8	-	-
+1014	ettringite	8	-	-
+1015	TiO2*15 LBL	8	-	-
+1016	AlCl3	8	-	-
+1017	sepiolite	8	-	-
+1018	glassy carbon	8	-	-
+1019	C@SiO2	8	-	-
+1020	P-E-F	8	-	P
+1021	chalk	8	-	-
+1022	pentafluoro pentanol	8	-	P
+1023	epoxy acrylate	8	-	-
+1024	CTHFA-g-PDMS	8	-	P
+1025	MT-CS-silica	8	-	-
+1026	PFDT thiols	8	-	P
+1027	NaPFN	8	-	P
+1028	PEGMA	7	{'PEGMA': 6, 'poly(ethylene glycol) methacrylate': 1}	-
+1029	CoO	7	{'CoO': 4, 'cobalt oxide': 3}	-
+1030	CaO	7	{'CaO': 7}	-
+1031	HMT	7	{'HMT': 1, 'hexamethylenetetramine': 6}	-
+1032	PFDA	7	{'PFDA': 7}	-
+1033	GMA	7	{'GMA': 4, 'glycidyl methacrylate': 3}	-
+1034	ODT	7	{'ODT': 2, 'octadecanethiol': 4, '1-octadecanethiol': 1}	-
+1035	DDA	7	{'DDA': 2, 'dodecylamine': 5}	-
+1036	HDFS	7	{'HDFS': 5, 'heptadecafluoro-1,1,2,2-tetrahydrodecyl trichlorosilane': 2}	-
+1037	NH4Cl	7	{'NH4Cl': 6, 'ammonium chloride': 1}	-
+1038	HEA	7	{'HEA': 2, 'hydroxyethyl acrylate': 1, '2-hydroxyethyl acrylate': 4}	-
+1039	hydroxyethyl	7	-	-
+1040	LCA-0.4L	7	-	P
+1041	Fluoroalkyl	7	-	-
+1042	Congo red	7	-	-
+1044	HOH	7	-	-
+1045	CH2Cl2	7	-	-
+1046	C2H6O	7	-	-
+1047	ferric	7	-	-
+1048	resorcinol	7	-	-
+1049	Tween80	7	-	-
+1050	1,2-Dichloroethane	7	-	-
+1051	calcium phosphate	7	-	P
+1053	2-Dichloroethane	7	-	-
+1054	F l u	7	-	-
+1055	titanium carboxylate	7	-	-
+1056	amino-functionalized	7	-	-
+1057	hydroxymethyl	7	-	-
+1058	aminomethane	7	-	-
+1059	C-OH	7	-	-
+1060	nano-SiO2	7	-	-
+1061	Co(NO3)2·6H2O	7	-	-
+1062	emeraldine	7	-	-
+1063	methacrylate	7	-	-
+1064	1, 2-dichloroethane	7	-	-
+1065	ferric chloride	7	-	-
+1069	perfluorocarboxylic acid	7	-	-
+1070	ammonia water	7	-	-
+1071	O H	7	-	-
+1072	SOPC	7	-	P
+1073	PH-RC-3Z	7	-	P
+1076	DPPA	7	-	-
+1078	-CH3	7	-	-
+1079	3,5-bis(trifluoromethyl)aniline	7	-	-
+1080	ammonium hexafluorosilicate	7	-	P
+1081	γ-CD	7	-	P
+1082	benzoic acid	7	-	-
+1083	Mg(NO3)2	7	-	-
+1084	silica (SiO2)	7	-	-
+1085	malachite green	7	-	-
+1086	Perfluoroalkyl	7	-	-
+1087	paraffin liquid	7	-	-
+1088	LiOH	7	-	-
+1089	Ni(NO3)2·6H2O	7	-	-
+1090	UiO-66	7	-	-
+1091	nitrile	7	-	-
+1092	benzyl alcohol	7	-	-
+1093	C8H18	7	-	P
+1094	TBAF	7	-	P
+1095	Tartrazine	7	-	P
+1096	zero-flux-decline	7	-	P
+1097	fluoropolymer	7	-	-
+1099	poly(MPC-b-MPS)	7	-	P
+1100	perfluoroalkylsilane	7	-	-
+1101	S-PM	7	-	P
+1102	fluoro	7	-	-
+1103	FHPA	7	-	P
+1104	perfluorooctyl	7	-	-
+1105	SFO	7	-	P
+1106	1,2- dichloroethane	7	-	P
+1107	Ti3C2Tx MXene	7	-	-
+1108	alkylsilane	7	-	-
+1109	sulphate	7	-	-
+1110	304SSS-24hLPD	7	-	P
+1111	tetrabutylammonium perchlorate	7	-	P
+1112	PEDOT-N3	7	-	P
+1113	fluorinated C@SiO2	7	-	P
+1114	θ hexadecane	7	-	P
+1115	dithiolane	7	-	P
+1116	OCH3	7	-	-
+1117	PDMS–silica	7	-	P
+1118	VM	7	-	P
+1119	fluorenyl	7	-	P
+1120	CH2 C9F19	7	-	P
+1121	Prussian blue	7	-	-
+1122	CTFE	7	-	P
+1123	FEVE	6	{'FEVE': 6}	-
+1125	PMPC	6	{'PMPC': 6}	-
+1126	LiBr	6	{'LiBr': 5, 'lithium bromide': 1}	-
+1127	Br	6	{'Br': 5, 'bromine': 1}	-
+1128	HDI	6	{'HDI': 4, 'hexamethylene diisocyanate': 1, 'Hexamethylene diisocyanate': 1}	-
+1129	BJH	6	{'BJH': 3, 'Barrett-Joyner-Halenda': 3}	-
+1130	DEDMS	6	{'DEDMS': 3, 'diethoxydimethylsilane': 3}	-
+1131	TMAH	6	{'TMAH': 4, 'Tetramethylammonium hydroxide': 2}	-
+1132	4-ATP	6	{'4-ATP': 5, '4-aminothiophenol': 1}	P
+1133	MAA	6	{'MAA': 3, 'methacrylic acid': 3}	-
+1134	TEMED	6	{'TEMED': 5, 'N,N,N′,N′-tetramethylethylenediamine': 1}	-
+1135	4-AP	6	{'4-AP': 4, '4-aminophenol': 2}	-
+1136	DVB	6	{'DVB': 2, 'divinylbenzene': 4}	-
+1137	PGMEA	6	{'PGMEA': 5, 'propylene glycol monomethyl ether acetate': 1}	-
+1139	TEOA	6	{'TEOA': 1, 'triethanolamine': 5}	-
+1140	PMS	6	{'PMS': 4, 'peroxymonosulfate': 2}	-
+1141	Sudan red III	6	-	-
+1142	Avatar	6	-	-
+1143	O 1 s	6	-	-
+1144	methyltrichlorosilane	6	-	P
+1145	Glycerol	6	-	P
+1146	HEPA	6	-	P
+1147	-COO-	6	-	-
+1148	Ni 2p3	6	-	-
+1150	hydroxylamine hydrochloride	6	-	P
+1151	Ti 2p3	6	-	-
+1153	maleic anhydride	6	-	P
+1154	boron nitride	6	-	-
+1155	Cu(NO3)2·3H2O	6	-	-
+1156	S element	6	-	-
+1157	2-hydroxy-2-methylpropiophenone	6	-	-
+1158	tween80	6	-	P
+1161	Pyrrole	6	-	-
+1162	silicic acid	6	-	-
+1163	acetoacetoxy	6	-	-
+1164	aminosilane	6	-	-
+1165	amides	6	-	-
+1166	copper acetate	6	-	-
+1167	Phytic acid	6	-	-
+1168	ZnSO4·7H2O	6	-	-
+1169	C = O	6	-	-
+1171	CaCO3-6	6	-	P
+1172	Pb2+	6	-	-
+1173	tungsten trioxide	6	-	P
+1174	phenols	6	-	-
+1175	θ O W	6	-	P
+1176	O-CO	6	-	-
+1177	hydroxyls	6	-	-
+1178	PDMS-OH	6	-	-
+1179	purified water	6	-	-
+1180	bPEI	6	-	-
+1181	zinc nitrate hexahydrate	6	-	-
+1182	Fe-TA	6	-	-
+1183	zinc acetate	6	-	-
+1184	bromobenzene	6	-	-
+1185	PDopa PEMs	6	-	-
+1186	unsaturated fatty acid	6	-	P
+1187	2-Methylimidazole	6	-	P
+1188	hydroquinone	6	-	-
+1189	silicon-oxygen	6	-	-
+1190	silsesquioxanes	6	-	-
+1191	perfluorosilane	6	-	-
+1192	LiClO4	6	-	-
+1193	OCH2	6	-	-
+1194	diatomite	6	-	-
+1195	Cotton-PGMA-C3F7	6	-	P
+1196	graphene oxides	6	-	-
+1197	hexadecyl	6	-	-
+1198	Mesh-PDOPA-SBMA	6	-	-
+1199	CuBr	6	-	-
+1200	AOT	6	-	P
+1201	PFNA-Na	6	-	P
+1202	cellulose-starch-silica	6	-	P
+1203	Na2S	6	-	-
+1204	bisphenol A diacrylate	6	-	P
+1205	C6FA	6	-	P
+1206	Lewis base	6	-	-
+1207	amide nitrogen	6	-	P
+1208	Tris buffer mixture	6	-	P
+1209	sodium acrylate	6	-	P
+1210	propylene glycol	6	-	P
+1211	B3+	6	-	P
+1212	Ti3AlC2	6	-	-
+1213	boehmite	6	-	-
+1214	O K	6	-	P
+1215	aluminum oxides	6	-	P
+1216	PO4	6	-	-
+1217	Cu 2p3	6	-	-
+1218	MF-Br	6	-	P
+1219	EDOT-N3	6	-	P
+1220	Bu4NClO4	6	-	-
+1221	3,4-dimethoxythiophene	6	-	P
+1222	PEDOT-F4	6	-	P
+1223	perfluoroacrylate	6	-	-
+1224	NH2-BPSH100	6	-	P
+1225	C16H18N3SCl	6	-	-
+1226	ProDOT-N3	6	-	P
+1227	PProDOT-F6	6	-	P
+1228	PProDOT-F8	6	-	P
+1229	perfluorocaprylic acid	6	-	P
+1230	MeCN	6	-	P
+1231	alkylsilanes	6	-	-
+1232	ZrCl4	6	-	-
+1233	ZrO	6	-	-
+1234	pyridinium	6	-	P
+1235	BRP-HM7	6	-	P
+1236	ethylacetate	6	-	P
+1237	PEDOT–NH2	6	-	P
+1238	C18H34O2	6	-	-
+1239	n-butylamine	6	-	-
+1240	p(Zonyl-TM-ran-MMA)	6	-	P
+1241	urethane acrylate	6	-	P
+1242	carboxymethyl	6	-	-
+1243	F-octyl	6	-	P
+1244	perfluorobutyl	6	-	P
+1245	SB-A-BF	6	-	P
+1246	Zonyl 8740	6	-	-
+1247	f-PEG	6	-	-
+1248	pentadecafluorooctanoyl chloride	6	-	P
+1249	N-Boc-β-alanine	6	-	P
+1250	urea–amide	6	-	P
+1251	PRO A	6	-	P
+1252	PTFE-h	6	-	P
+1253	F2CH2	6	-	P
+1254	PVDF-GO	6	-	P
+1255	ethanol-wetted	6	-	P
+1256	zeolite-Y	6	-	-
+1257	MPC	5	{'MPC': 3, '2-methacryloyloxyethyl phosphorylcholine': 1, '2-Methacryloyloxyethyl phosphorylcholine': 1}	-
+1258	Pb	5	{'Pb': 5}	-
+1259	CuCl	5	{'CuCl': 4, 'cuprous chloride': 1}	-
+1260	TMPTA	5	{'TMPTA': 3, 'trimethylolpropane triacrylate': 1, 'Trimethylolpropane triacrylate': 1}	-
+1261	LMA	5	{'LMA': 3, 'lauryl methacrylate': 2}	-
+1262	EMA	5	{'EMA': 3, 'ethyl methacrylate': 2}	-
+1263	HFPO	5	{'HFPO': 2, 'hexafluoropropylene oxide': 3}	-
+1264	PMDETA	5	{'PMDETA': 3, 'N,N,N′,N″,N″-pentamethyldiethylenetriamine': 2}	-
+1265	TFEMA	5	{'TFEMA': 2, '2,2,2-trifluoroethyl methacrylate': 3}	-
+1266	HPMA	5	{'HPMA': 3, '2-hydroxypropyl methacrylate': 2}	P
+1267	GPTMS	5	{'GPTMS': 4, '3-glycidoxypropyltrimethoxysilane': 1}	-
+1268	TDI	5	{'TDI': 4, 'toluene diisocyanate': 1}	-
+1269	TMCS	5	{'TMCS': 1, 'trimethylchlorosilane': 3, 'Trimethylchlorosilane': 1}	-
+1270	NaClO	5	{'NaClO': 3, 'sodium hypochlorite': 2}	-
+1271	kaolinite	5	-	-
+1272	PDDA-Al2O3	5	-	P
+1273	polyelectrolyte-fluorosurfactant	5	-	P
+1274	palmitate	5	-	P
+1275	OCA-20	5	-	-
+1276	iron palmitate	5	-	-
+1277	fluoro-containing	5	-	-
+1278	Sudan IV	5	-	-
+1279	Ni element	5	-	-
+1280	NiOOH	5	-	P
+1281	n-butyl acetate	5	-	-
+1282	trichlorosilanes	5	-	-
+1283	S E	5	-	-
+1284	catechols	5	-	-
+1285	Schiff-base	5	-	-
+1286	V-NIPS	5	-	P
+1287	Ti-O	5	-	-
+1288	N-hexadecane	5	-	P
+1291	aluminosilicate	5	-	-
+1292	Si4+	5	-	-
+1293	TBEC	5	-	-
+1294	Methyl blue	5	-	-
+1296	SiOC	5	-	-
+1297	ammonium carboxylate	5	-	-
+1298	sodium sulfate (Na2SO4)	5	-	-
+1299	aromatic	5	-	-
+1300	Ting	5	-	-
+1301	polyether	5	-	-
+1302	glycerinum	5	-	-
+1303	Al(NO3)3·9H2O	5	-	-
+1304	Ca element	5	-	-
+1305	carbon-carbon	5	-	-
+1307	Hydrocarbon	5	-	-
+1308	BSn	5	-	P
+1309	PEMs	5	-	-
+1310	perfluorothiolate	5	-	-
+1311	PF-thiolate	5	-	P
+1313	8–10	5	-	-
+1314	Sodium chloride	5	-	-
+1315	COOR	5	-	-
+1316	θ W	5	-	-
+1317	calcium chloride	5	-	-
+1318	Sudan red	5	-	-
+1319	CuSO4·5H2O	5	-	-
+1320	span 80	5	-	P
+1321	natural graphite	5	-	-
+1322	sodium nitrate	5	-	-
+1323	C3H6O	5	-	-
+1324	C-S-H	5	-	-
+1325	fluorinated-decyl polyhedral oligomeric silsesquioxane	5	-	-
+1326	TiOx	5	-	-
+1327	γ L d	5	-	P
+1328	fluorinated polysiloxane	5	-	-
+1329	JEM-1200EX	5	-	-
+1330	perfluorodecyl	5	-	P
+1331	brucite	5	-	-
+1332	C–OH	5	-	-
+1333	PDMS-NH2	5	-	-
+1334	Na2Ti2O5·H2O	5	-	-
+1335	sodium tetraborate	5	-	P
+1336	sodium carbonate	5	-	-
+1337	siloxanes	5	-	-
+1338	Span-80	5	-	-
+1339	PH-RC-0.5Z	5	-	P
+1340	θ O A	5	-	P
+1341	Brilliant Blue	5	-	P
+1342	CONH	5	-	-
+1343	Sudan Red III	5	-	-
+1344	DIN	5	-	-
+1345	α-Al2O3	5	-	-
+1346	Methylene Blue	5	-	-
+1347	Zn(CH3COO)2·2H2O	5	-	-
+1348	singular	5	-	-
+1349	N-(2-hydroxyethyl) acrylamide	5	-	P
+1350	R–OH	5	-	P
+1351	–CO	5	-	-
+1352	diallyldimethylammonium chloride	5	-	-
+1353	SiCl	5	-	-
+1354	Zeolites	5	-	-
+1355	2-methylimidazole	5	-	-
+1356	Zinc nitrate hexahydrate	5	-	-
+1357	carbontetrachloride	5	-	P
+1358	imide	5	-	-
+1359	saturated fatty acid	5	-	-
+1360	cyano	5	-	-
+1361	Ethylene glycol	5	-	-
+1362	1H, 1H, 2H	5	-	-
+1363	fluorinated acrylate	5	-	-
+1364	fluorosilicone polyurethane	5	-	P
+1365	Pluronic F-127	5	-	-
+1366	PVDF-g-PTA	5	-	P
+1367	Sunset Yellow	5	-	P
+1368	F127–F16	5	-	P
+1369	imidazolium	5	-	-
+1370	methacryloxyl	5	-	P
+1371	primary amine	5	-	-
+1372	Gore-Tex	5	-	-
+1373	isobutyl	5	-	-
+1374	PF-TMMS	5	-	P
+1375	methine	5	-	P
+1376	n-butanol	5	-	-
+1377	-COO	5	-	-
+1378	Urea	5	-	-
+1379	HAuCl4	5	-	-
+1380	M-SiO2	5	-	-
+1381	ethyl	5	-	-
+1382	PPS-COOH	5	-	-
+1383	Zn(OH)2	5	-	-
+1384	decanoic acid	5	-	-
+1385	sulfide	5	-	-
+1386	poly(MPC)-Br	5	-	P
+1387	Zn-O	5	-	-
+1389	carboxyl-functional	5	-	P
+1390	N CO	5	-	P
+1391	C3H6N6	5	-	-
+1392	PFDTS	5	-	-
+1393	perfluorodecyltrimethoxysilane	5	-	-
+1394	Sn–O–N	5	-	P
+1395	polythiophene	5	-	-
+1396	PFOTMS	5	-	-
+1397	OEGMA	5	-	-
+1398	Hg2+	5	-	-
+1399	MF-NH2	5	-	P
+1400	triethoxysilanes	5	-	-
+1401	TFEA	5	-	P
+1402	PEDOT-F6	5	-	P
+1403	Vermiculite	5	-	P
+1404	atomic oxygen	5	-	-
+1405	fluorinated h-SiO2	5	-	P
+1406	SFA	5	-	P
+1407	C6F13COOH	5	-	P
+1408	zirconium palmitate	5	-	P
+1409	NuSil	5	-	P
+1410	fluoroalkyl-silane	5	-	-
+1411	P-F	5	-	P
+1412	methyl silicone oil	5	-	-
+1413	Ca(OH)2	5	-	-
+1414	ProDOT-OH	5	-	P
+1415	tributylphosphine	5	-	P
+1416	AZ91D magnesium	5	-	-
+1417	tetrabutylammonium hexafluorophosphate	5	-	P
+1418	PFEA	5	-	P
+1419	perfluoroctyltrichlorosilane	5	-	P
+1420	fluorinated 3,4-ethylenedioxypyrrole	5	-	P
+1421	alumina oxide	5	-	P
+1422	ZrOCl2·8H2O	5	-	-
+1423	iminodiacetic acid	5	-	P
+1424	lipoic acid	5	-	P
+1425	S–S	5	-	P
+1426	ETFE	5	-	-
+1427	2-HEA	5	-	P
+1428	μP-SiNW-B	5	-	P
+1429	PEDOT–S–F6	5	-	P
+1430	Fluoroacrylic	5	-	P
+1431	Ba2+	5	-	-
+1432	fluorosilica	5	-	P
+1433	fluorinated urea–amide	5	-	P
+1434	N-Boc-l-aspartic acid	5	-	P
+1435	4-(3-pyrrolyl)butyric acid	5	-	P
+1436	pyrrole-OH	5	-	P
+1437	Asahiklin	5	-	P
+1438	trans-3,6-endo-methylene-1,2,3,6-tetrahydrophthaloyl chloride	5	-	P
+1439	11-mercaptoundecanoic acid	5	-	P
+1440	hydroxyl acrylate	5	-	-
+1441	gas-hydrate	5	-	P
+1442	fluorinated ether	5	-	P
+1443	C6F13C2H4OH	5	-	P
+1444	G-IV F	5	-	P
+1445	G-IV H	5	-	P
+1446	18H	5	-	P
+1447	AlOOH	5	-	-
+1448	MPMC	5	-	P
+1449	MCC	5	-	P
+1450	LiCl	4	{'LiCl': 4}	-
+1451	BADGE	4	{'BADGE': 4}	P
+1452	PMSQ	4	{'PMSQ': 2, 'polymethylsilsesquioxane': 2}	-
+1454	PMHS	4	{'PMHS': 2, 'polymethylhydrosiloxane': 1, 'Polymethylhydrosiloxane': 1}	-
+1455	BDO	4	{'BDO': 2, '1,4-butanediol': 2}	-
+1457	TMMS	4	{'TMMS': 2, 'trimethoxymethylsilane': 2}	-
+1458	ETES	4	{'ETES': 2, 'ethyltriethoxysilane': 2}	P
+1459	ABS	4	{'ABS': 3, 'acrylonitrile butadiene styrene': 1}	-
+1460	CTAC	4	{'CTAC': 4}	-
+1461	MBA	4	{'MBA': 2, 'N,N′-methylenebisacrylamide': 2}	-
+1462	PHEMA	4	{'PHEMA': 3, 'poly(2-hydroxyethyl methacrylate)': 1}	P
+1463	ChCl	4	{'ChCl': 2, 'choline chloride': 2}	P
+1464	PEEK	4	{'PEEK': 2, 'polyether ether ketone': 1, 'Poly(ether ether ketone)': 1}	-
+1465	HDPE	4	{'HDPE': 2, 'high density polyethylene': 2}	-
+1466	MEKO	4	{'MEKO': 2, 'methyl ethyl ketoxime': 2}	P
+1467	DTT	4	{'DTT': 2, 'dithiothreitol': 2}	P
+1468	CTC	4	{'CTC': 3, 'chlortetracycline': 1}	P
+1469	MEA	4	{'MEA': 1, 'monoethanolamine': 3}	-
+1470	PFSEA	4	{'PFSEA': 1, 'perfluorosebacic acid': 3}	P
+1471	ppAA polyester	4	-	P
+1472	–CO–	4	-	P
+1473	silica zeolite	4	-	P
+1474	enamine	4	-	-
+1475	azobenzene	4	-	-
+1476	1-methylimidazole	4	-	P
+1477	glycerol propoxylate triglycidyl ether	4	-	P
+1478	NiSO4·6H2O	4	-	-
+1479	ZIF-90	4	-	P
+1480	nitrate hexahydrate	4	-	-
+1481	copper chloride	4	-	-
+1482	P H	4	-	-
+1483	Resorcinol	4	-	-
+1484	Glutaraldehyde	4	-	-
+1485	pentaerythritol tetrakis (3-mercaptopropionate)	4	-	P
+1486	diethylene glycol diglycidyl ether	4	-	P
+1487	C16H36O4Ti	4	-	-
+1488	polyethylenepolyamine	4	-	P
+1489	Organosiloxanes	4	-	P
+1490	Silicon dioxide	4	-	-
+1491	Fe2+ gluconate	4	-	-
+1492	HCL	4	-	-
+1493	tris buffer	4	-	-
+1494	Tannin	4	-	-
+1495	(hydroxymethyl)-aminomethane	4	-	P
+1496	perfluorononanoic acid	4	-	P
+1497	SiOCH3	4	-	-
+1498	fluorinated oligosuberamide	4	-	P
+1499	Caffeic acid	4	-	-
+1500	nano-silicon	4	-	P
+1501	imino	4	-	-
+1503	Si-C	4	-	-
+1504	C−C	4	-	P
+1506	soda lime	4	-	-
+1507	Cyclohexane	4	-	-
+1508	sodium perchlorate	4	-	P
+1509	CH3CH2OH	4	-	-
+1510	dimethyl silicone oil	4	-	-
+1511	diidomethane	4	-	-
+1512	Co 2p3	4	-	-
+1513	Heptane	4	-	-
+1514	pure oxygen	4	-	-
+1515	Cu2+-H2O2	4	-	P
+1516	SU8000	4	-	-
+1517	JEM-2100	4	-	-
+1518	Sudan I	4	-	-
+1519	Br2	4	-	-
+1520	F-Sample A	4	-	P
+1521	F-Sample B	4	-	P
+1522	APTS	4	-	-
+1523	quinones	4	-	-
+1524	cyclone	4	-	P
+1525	hydrazine hydrate	4	-	-
+1526	sudan III	4	-	-
+1527	dicalcium silicate	4	-	P
+1528	Ti-O-Ti	4	-	-
+1529	fluorinated alkylsilane	4	-	-
+1530	CeO2	4	-	-
+1531	Bi(NO3)3·5H2O	4	-	-
+1532	CaCO3-3	4	-	P
+1533	CaCO3-9	4	-	P
+1534	−OH	4	-	-
+1535	Fe element	4	-	-
+1536	phosphonic acid	4	-	-
+1537	fluorodecyl polyhedral oligomeric silsesquioxane	4	-	-
+1538	silicates	4	-	-
+1539	dicyandiamide	4	-	-
+1540	PPVA	4	-	P
+1541	Potassium permanganate	4	-	-
+1542	titanate	4	-	-
+1543	Acrylic acid	4	-	-
+1544	AHCH-3	4	-	-
+1545	1,4-dioxane	4	-	-
+1546	[Ag(NH3)2]+	4	-	-
+1547	1H,1H,2H,2H-Perfluorodecyltrimethoxysilane	4	-	-
+1548	Carnauba wax	4	-	-
+1549	−CH2	4	-	-
+1550	polyisoprene	4	-	-
+1551	cyclohexanone	4	-	-
+1552	PEEK-OH-8h	4	-	P
+1553	S 2p	4	-	-
+1554	dimethylsiloxane	4	-	-
+1555	CF3(CF2)6COOH	4	-	P
+1556	Al mono	4	-	-
+1558	C36H74 + C50H102	4	-	P
+1559	C36H74	4	-	P
+1560	Hydroxyl	4	-	-
+1561	PH-RC-XZ	4	-	P
+1562	fluorosiloxane	4	-	-
+1563	Polyfurfuryl alcohol	4	-	-
+1564	strontium titanate	4	-	-
+1565	white precipitate	4	-	-
+1566	zinc nitrate	4	-	-
+1567	carbon-oxygen	4	-	-
+1568	CH2O	4	-	-
+1569	titanium alloy	4	-	-
+1570	Decane	4	-	P
+1571	N-tetradecane	4	-	-
+1572	pencil	4	-	-
+1573	bio-dopamine	4	-	P
+1574	naphthalene	4	-	-
+1575	octanol	4	-	-
+1576	Na element	4	-	-
+1577	Al-O	4	-	-
+1578	SO3	4	-	-
+1579	γ S	4	-	-
+1580	CONH2	4	-	P
+1581	Tris-buffer	4	-	-
+1582	PEG-6000	4	-	P
+1583	mesitylene	4	-	-
+1584	–SO3H	4	-	-
+1585	–SO3 −	4	-	P
+1586	-hexane	4	-	-
+1587	–CH	4	-	-
+1588	HW(0.1SDS)	4	-	P
+1589	perfluoroalkyl acrylic copolymer	4	-	P
+1590	PVDT	4	-	-
+1591	DOPO	4	-	-
+1592	sodium bicarbonate	4	-	-
+1593	FSiO2	4	-	-
+1594	Thiol-ene	4	-	-
+1595	fluorosilicone	4	-	-
+1596	-SH	4	-	-
+1597	propylene carbonate	4	-	-
+1598	sodium tetrafluoroborate	4	-	P
+1599	copper perfluorooctanoate	4	-	-
+1600	halide	4	-	-
+1601	nano-TiO2	4	-	-
+1602	HClO4	4	-	-
+1603	L·m−2h−1	4	-	P
+1604	HO-PTFMS-b-PDMS-b-PTFMS-OH	4	-	P
+1605	DMAA	4	-	P
+1606	-COONa	4	-	P
+1607	acetal	4	-	-
+1608	2-bromoisobutyryl bromide	4	-	P
+1609	Cotton-PGMA-g-PGMA-C3F7	4	-	P
+1610	PDMS-b-PIPSMA	4	-	P
+1611	malachite green powder	4	-	-
+1612	19–21	4	-	-
+1613	CrO3	4	-	-
+1614	-CO	4	-	-
+1615	PHI-5702	4	-	-
+1616	1 H	4	-	-
+1617	oxirane	4	-	-
+1618	fluoroalcohol	4	-	-
+1619	copper oxides	4	-	-
+1620	1-dodecanol	4	-	-
+1621	amido	4	-	-
+1622	n-alkyl silane	4	-	P
+1624	C 1s, O 1s	4	-	-
+1625	carbon-silica	4	-	-
+1626	TMSPBrIB	4	-	P
+1627	anisole	4	-	P
+1628	Methylphenyl silicone	4	-	-
+1629	n-Dodecane	4	-	P
+1630	Diiodomethane	4	-	-
+1631	perfluoroalkylsilanes	4	-	-
+1632	C6FA-fabric	4	-	P
+1633	7OFP - 1TMS POSS	4	-	P
+1634	Cr2+	4	-	-
+1635	hydroxyl-functional	4	-	-
+1636	Methylchlorosilane	4	-	-
+1637	hexanes	4	-	-
+1638	Aerosil 380	4	-	-
+1639	NCH2 CH2CH2Si	4	-	P
+1640	NCH2CH2 CH2Si	4	-	P
+1641	2-picoline borane	4	-	P
+1642	-CH2-	4	-	-
+1643	diamonds	4	-	-
+1644	PFDTCS 2D-mesh	4	-	P
+1645	θ E	4	-	-
+1647	FAD-11	4	-	P
+1648	Al–O–N	4	-	P
+1651	calcium sulphoaluminate	4	-	P
+1653	TiO2*10	4	-	-
+1654	TiO2*5	4	-	-
+1655	304SSS-24hLPD-FAS	4	-	P
+1656	amido-amine	4	-	P
+1657	thiolated triethoxysilanes	4	-	P
+1658	(3-mercaptopropyl)triethoxysilane	4	-	P
+1659	4H	4	-	P
+1660	dry nitrogen	4	-	P
+1661	sodium azide	4	-	-
+1662	alkynes	4	-	-
+1663	PEDOT-C8	4	-	P
+1664	PEDOT-F8	4	-	P
+1665	AZP4620	4	-	P
+1666	AlOH	4	-	-
+1667	τ yb	4	-	P
+1668	oleic	4	-	-
+1669	Al-Mg	4	-	P
+1670	nylon-66	4	-	P
+1671	Na2HPO4	4	-	-
+1672	perfluoro-styrene copolymer	4	-	P
+1673	f s C B	4	-	P
+1674	ProDOT-2N3	4	-	P
+1675	PC-C10	4	-	P
+1676	–NH3	4	-	P
+1677	Styrene	4	-	-
+1678	calcium hydroxide	4	-	-
+1679	adamantane	4	-	P
+1680	CO2 +MeOH	4	-	P
+1681	Tf2N−	4	-	P
+1682	n-C16H34	4	-	P
+1683	PEDOT S–S	4	-	P
+1684	aluminum nitrate	4	-	-
+1685	TiO2−x	4	-	-
+1686	N,F-co	4	-	-
+1687	PdO	4	-	-
+1688	Y2O3	4	-	-
+1689	AgI	4	-	-
+1690	aluminum-methyl	4	-	P
+1691	poly(SBR-g-Zonyl TA-N)	4	-	P

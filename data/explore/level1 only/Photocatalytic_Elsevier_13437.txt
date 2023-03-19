@@ -1,0 +1,1932 @@
+1	TiO2	358821	-	-
+2	ZnO	112064	{'ZnO': 108933, 'zinc oxide': 2249, 'Zinc oxide': 773, 'Zinc Oxide': 109}	-
+10	WO3	23422	-	-
+11	titania	21757	-	-
+12	CdS	21631	{'CdS': 21334, 'Cadmium sulfide': 70, 'cadmium sulfide': 193, 'cadmium sulphide': 34}	-
+16	g-C3N4	19259	-	-
+18	SiO2	18409	-	-
+19	hydroxyl	17631	-	-
+25	PEC	14378	-	-
+26	SnO2	14303	-	-
+27	Cu2O	14292	-	-
+30	BVO	12033	{'BVO': 256, 'BiVO4': 11777}	P
+31	CuO	11818	{'CuO': 11123, 'copper oxide': 632, 'cupric oxide': 45, 'Cupric oxide': 18}	-
+32	graphene	11296	-	-
+38	phenol	9107	-	-
+41	silica	8374	-	-
+42	Fe2O3	8337	-	-
+43	FTO	8322	{'FTO': 8292, 'fluorinated tin oxide': 13, 'fluorine tin oxide': 17}	-
+45	quartz	7481	-	-
+46	TNT	7400	{'TNT': 6, 'titanium dioxide': 7385, '2,4,6-trinitrotoluene': 9}	P
+47	MoS2	7396	-	-
+50	ZnS	6926	{'ZnS': 6834, 'Zinc sulfide': 33, 'zinc sulfide': 59}	-
+51	Fe3O4	6890	-	-
+56	CeO2	6553	-	-
+57	TiO	6522	{'TiO': 4886, 'titanium oxide': 1636}	-
+60	MeO	6286	{'MeO': 262, 'methyl orange': 5528, 'Methyl orange': 496}	-
+65	NiO	5628	{'NiO': 5340, 'nickel oxide': 234, 'Nickel oxide': 54}	-
+69	Bi2WO6	5286	-	-
+70	Bi2O3	5252	-	-
+74	Cr(VI)	4831	-	-
+77	Al2O3	4749	-	-
+80	α-Fe2O3	4682	-	-
+81	metal oxide	4525	-	-
+83	oxides	4428	-	-
+85	ZrO2	4390	-	-
+87	oxide	4037	-	-
+88	BFO	4032	{'BFO': 2516, 'BiFeO3': 1516}	P
+89	Ag3PO4	3984	-	-
+90	STO	3965	{'STO': 1118, 'SrTiO3': 2847}	-
+91	ITO	3848	{'ITO': 3344, 'indium tin oxide': 316, 'indium-tin-oxide': 23, 'indium-tin oxide': 60, 'Indium tin oxide': 52, 'Indium Tin Oxide': 13, 'Indium-tin oxide': 4, 'indium–tin oxide': 29, 'indium tin oxides': 7}	-
+92	superoxide	3728	-	-
+96	PEG	3516	{'PEG': 2666, 'polyethylene glycol': 647, 'poly (ethylene glycol)': 9, 'Polyethylene glycol': 90, 'poly(ethylene glycol)': 44, 'Polyethylene Glycol': 5, 'Poly(ethylene glycol)': 7, 'poly ethylene glycol': 8, 'polyethylene glycol 400': 9, 'poly(ethyleneglycol)': 2, 'polyethylene glycol 200': 3, 'polyethyleneglycol': 26}	-
+97	graphite	3485	-	-
+102	brookite	3381	-	-
+103	metal oxides	3355	-	-
+104	BPA	3282	{'BPA': 2808, 'bisphenol A': 318, 'bisphenol-A': 43, 'Bisphenol A': 94, 'Bisphenol-A': 19}	-
+105	BiOCl	3279	{'BiOCl': 3231, 'Bismuth oxychloride': 21, 'bismuth oxychloride': 27}	-
+107	PVDF	3229	{'PVDF': 3016, 'polyvinylidene fluoride': 121, 'polyvinylidene difluoride': 12, 'Poly(vinylidene fluoride)': 7, 'Poly (vinylidene fluoride)': 4, 'Polyvinylidene Fluoride': 3, 'Polyvinylidene fluoride': 24, 'poly (vinylidene fluoride)': 10, 'poly(vinylidene fluoride)': 28, 'polyvinyldifluoride': 1, 'polyvinylidenefluoride': 2, 'poly(vinylidene difluoride)': 1}	-
+111	PEO	3131	{'PEO': 3065, 'poly (ethylene oxide)': 9, 'Poly(ethylene oxide)': 3, 'Polyethylene oxide': 2, 'poly(ethylene oxide)': 23, 'polyethylene oxide': 28, 'polyethyleneoxide': 1}	-
+112	graphene oxide	3119	-	-
+116	In2O3	3042	-	-
+117	wurtzite	3018	-	-
+122	CdSe	2909	{'CdSe': 2845, 'Cadmium selenide': 19, 'cadmium selenide': 45}	-
+126	Teflon	2845	-	-
+129	Titanium dioxide	2796	-	-
+134	alumina	2624	-	-
+137	urea	2592	-	-
+139	Co3O4	2538	-	-
+140	ZnFe2O4	2534	-	-
+141	Ag2O	2528	-	-
+143	CuS	2401	{'CuS': 2300, 'copper sulfide': 101}	-
+144	hematite	2400	-	-
+145	Bi2S3	2388	-	-
+146	MoO3	2368	-	-
+148	CdO	2323	{'CdO': 2250, 'Cadmium oxide': 27, 'cadmium oxide': 46}	-
+149	V2O5	2305	-	-
+153	Nb2O5	2220	-	-
+156	nano-TiO2	2196	-	-
+157	PDMS	2190	{'PDMS': 1986, 'polydimethyl siloxane': 2, 'Polydimethylsiloxane': 36, 'polydimethylsiloxane': 154, 'Poly(dimethylsiloxane)': 2, 'poly(dimethylsiloxane)': 6, 'poly(dimethyl siloxane)': 1, 'polydimethysiloxane': 2, 'poly-dimethylsiloxane': 1}	-
+159	TEOS	2179	{'TEOS': 1605, 'Tetraethoxysilane': 28, 'tetraethyl orthosilicate': 254, 'tetraethylorthosilicate': 75, 'Tetraethyl orthosilicate': 68, 'tetraethoxysilane': 109, 'Tetraethylorthosilicate': 25, 'tetraorthosilicate': 6, 'Tetraethyl-orthosilicate': 1, 'tetraethyl-orthosilicate': 4, 'tetra ethyl orthosilicate': 4}	-
+160	perovskite	2147	-	-
+161	MgO	2145	{'MgO': 2089, 'magnesium oxide': 46, 'Magnesium oxide': 10}	-
+163	PDA	2127	{'PDA': 1757, 'polydopamine': 294, 'poly-dopamine': 4, 'Polydopamine': 55, 'poly(dopamine)': 17}	-
+164	PET	2121	{'PET': 129, 'polyethylene': 463, 'polyethylene terephthalate': 121, 'polyethyleneterephthalate': 4, 'polyester': 1239, 'density polyethylene': 61, 'poly(ethylene terephthalate)': 27, 'Polyester': 55, 'Polyethylene terephthalate': 15, 'Poly(ethylene terephthalate)': 3, 'Polyethylene Terephthalate': 1, 'polyethylene terephtalate': 3}	-
+166	PVC	2076	{'PVC': 1903, 'polyvinyl chloride': 99, 'polyvinylchloride': 13, 'Poly(vinyl chloride)': 11, 'Polyvinyl chloride': 13, 'poly(vinyl chloride)': 35, 'poly vinyl chloride': 2}	-
+167	SnS2	2068	-	P
+169	TiCl4	2043	-	-
+170	azo	2014	-	-
+171	N-TiO2	1988	-	-
+172	CTAB	1964	{'CTAB': 1661, 'cetyl trimethyl ammonium bromide': 28, 'Cetyltrimethylammonium bromide': 16, 'hexadecyltrimethylammonium bromide': 35, 'cetyltrimethylammonium bromide': 147, 'cetyltrimethyl ammonium bromide': 52, 'Cetyl trimethyl ammonium bromide': 6, 'Cetyltrimethyl ammonium bromide': 5, 'Cetyl Trimethyl Ammonium Bromide': 3, 'cetyl trimethylammonium bromide': 11}	-
+173	TiN	1951	{'TiN': 1788, 'titanium nitride': 139, 'Titanium nitride': 24}	-
+178	zeolite	1776	-	-
+181	transition metal	1729	-	-
+182	ZIS	1708	{'ZIS': 147, 'ZnIn2S4': 1561}	P
+184	phosphate	1704	-	-
+187	BTO	1694	{'BTO': 308, 'BaTiO3': 1386}	-
+189	titanate	1673	-	-
+192	P25 TiO2	1658	-	-
+195	SiC	1640	{'SiC': 1514, 'silicon carbide': 101, 'Silicon carbide': 25}	-
+197	PbS	1621	{'PbS': 1608, 'lead sulfide': 13}	-
+199	Titania	1569	-	-
+207	ZnWO4	1475	-	P
+209	Ta2O5	1449	-	-
+212	CuWO4	1417	-	P
+213	PEI	1404	{'PEI': 1215, 'polyetherimide': 9, 'Polyetherimide': 7, 'poly(ethylenimine)': 5, 'poly(ethyleneimine)': 4, 'polyethyleneimine': 80, 'polyethylenimine': 49, 'Polyethyleneimine': 15, 'Polyethylenimine': 6, 'poly(ethylene imine)': 6, 'Poly(ethyleneimine)': 2, 'polyethylene imine': 4, 'Poly(ethylene imine)': 2}	-
+214	MnO2	1403	-	-
+216	iron oxide	1388	-	-
+221	ACN	1340	{'ACN': 45, 'acetonitrile': 1211, 'Acetonitrile': 84}	-
+224	tin oxide	1293	-	-
+227	ZIF-8	1282	{'ZIF-8': 1270, 'Zeolitic imidazolate framework-8': 3, 'zeolitic imidazolate framework-8': 9}	-
+232	COO	1262	{'COO': 178, 'carboxyl': 1084}	-
+234	NaBH4	1249	{'NaBH4': 1027, 'sodium borohydride': 222}	-
+235	CIS	1247	{'CIS': 18, 'CuInS2': 1229}	-
+239	carbonyl	1216	-	-
+243	chloride	1204	-	-
+244	GLY	1200	{'GLY': 2, 'glycerol': 1198}	P
+246	CoO	1186	{'CoO': 878, 'cobalt oxide': 308}	-
+247	BaSO4	1182	{'BaSO4': 1083, 'barium sulfate': 78, 'Barium sulfate': 21}	-
+248	Ag2S	1182	-	P
+250	transition metals	1159	-	-
+252	PEDOT	1140	{'PEDOT': 1112, 'poly(3,4-ethylenedioxythiophene)': 21, 'Poly(3,4-ethylenedioxythiophene)': 7}	-
+255	AgBr	1139	-	P
+257	NH4F	1133	{'NH4F': 927, 'ammonium fluoride': 206}	-
+258	Methylene blue	1115	-	-
+259	Na2S	1112	-	-
+260	PTFE	1109	{'PTFE': 875, 'poly(tetrafluoroethylene)': 12, 'polytetrafluoroethylene': 188, 'Polytetrafluoroethylene': 16, 'polytetrafluorethylene': 5, 'poly-tetrafluoroethylene': 1, 'polytetrafluroethylene': 1, 'Poly(tetrafluoroethylene)': 1, 'polytetrafluoroethene': 8, 'poly tetrafluoroethylene': 2}	-
+261	CoFe2O4	1098	-	-
+263	LDPE	1083	{'LDPE': 1035, 'Low Density Polyethylene': 5, 'low density polyethylene': 37, 'Low density polyethylene': 6}	-
+265	TBOT	1078	{'TBOT': 937, 'Tetrabutyl orthotitanate': 21, 'tetrabutyl orthotitanate': 57, 'tetrabutylorthotitanate': 63}	-
+266	Ti 2p3	1073	-	-
+267	β-Bi2O3	1073	-	-
+268	thiourea	1072	-	-
+269	2,4-DCP	1065	{'2,4-DCP': 772, '2,4-dichlorophenol': 279, '2,4-Dichlorophenol': 14}	-
+270	BiOBr	1034	{'BiOBr': 1022, 'bismuth oxybromide': 12}	-
+271	Nafion	1031	-	-
+272	Graphene	1027	-	-
+273	DMSO	1025	{'DMSO': 767, 'dimethyl sulfoxide': 177, 'Dimethyl sulfoxide': 27, 'dimethylsulfoxide': 30, 'Dimethylsulfoxide': 8, 'dimethylsulphoxide': 1, 'dimethyl sulphoxide': 15}	-
+274	Gd	1024	{'Gd': 872, 'gadolinium': 103, 'Gadolinium': 49}	-
+276	CH3OH	1014	-	-
+277	ACF	1009	-	-
+278	B	1007	{'B': 7, 'boron': 885, 'Boron': 115}	P
+279	graphitic	1007	-	-
+282	PANI	993	{'PANI': 147, 'polyaniline': 717, 'Polyaniline': 129}	-
+283	amine	987	-	-
+284	GaN	979	{'GaN': 953, 'gallium nitride': 26}	-
+285	TiO2−x	978	-	-
+287	DCF	957	{'DCF': 527, 'diclofenac': 421, 'dichlorofluorescein': 9}	-
+288	NiFe2O4	955	-	-
+289	zinc acetate	946	-	-
+290	ANI	944	{'ANI': 5, 'Aniline': 69, 'aniline': 870}	-
+291	Na2SO3	922	-	-
+293	borosilicate	909	-	-
+294	hydrocarbon	904	-	-
+295	calomel	904	-	-
+296	TPA	901	{'TPA': 253, 'triphenylamine': 19, 'terephthalic acid': 546, 'Terephthalic acid': 83}	-
+297	PSt	896	{'PSt': 5, 'polystyrene': 891}	P
+299	epoxy	885	-	-
+301	CBZ	874	{'CBZ': 608, 'carbamazepine': 242, 'Carbamazepine': 24}	-
+302	magnetite	866	-	-
+303	CIP	862	{'CIP': 418, 'ciprofloxacin': 373, 'Ciprofloxacin': 71}	-
+304	tungsten oxide	862	-	-
+305	AO7	858	{'AO7': 597, 'Acid Orange 7': 135, 'Acid orange 7': 25, 'acid orange 7': 101}	-
+306	SnS	847	-	P
+307	COOH	846	-	-
+309	porphyrin	837	-	-
+310	DMPO	828	{'DMPO': 680, '5,5-Dimethyl-1-pyrroline N-oxide': 14, '5,5-dimethyl-1-pyrroline N-oxide': 63, '5,5-dimethyl-1-pyrroline-N-oxide': 44, '5,5-Dimethyl-1-pyrroline-N-oxide': 7, '5,5-dimethyl-l-pyrroline-N-oxide': 6, '5-dimethyl-1-pyrroline N-oxide': 8, '5, 5-dimethyl-1-pyrroline N-oxide': 6}	-
+314	2-CP	824	{'2-CP': 643, '2-chlorophenol': 181}	P
+315	Y3Al5O12	822	-	-
+316	sulfide	820	-	-
+317	P3HT	811	{'P3HT': 773, 'poly(3-hexylthiophene)': 29, 'Poly(3-hexylthiophene)': 5, 'poly(3-hexylthiophene-2,5-diyl)': 4}	-
+318	Pb	808	{'Pb': 808}	-
+320	phenolic	807	-	-
+323	silver nitrate	796	-	-
+324	SO2	786	-	-
+325	POMs	785	{'POMs': 689, 'polyoxometalates': 78, 'Polyoxometalates': 18}	P
+326	Sm	780	{'Sm': 555, 'samarium': 204, 'Samarium': 21}	-
+327	Cr(III)	780	-	-
+328	BET	771	{'BET': 394, 'Brunauer-Emmett-Teller': 377}	-
+329	halogen	770	-	-
+330	ATZ	769	{'ATZ': 93, 'atrazine': 676}	P
+331	γ-Fe2O3	766	-	-
+332	catechol	764	-	-
+333	RuO2	763	-	-
+334	fluoride	757	-	-
+336	TEOA	752	{'TEOA': 214, 'Triethanolamine': 55, 'triethanolamine': 483}	-
+337	SnO	746	-	-
+338	Br	741	{'Br': 666, 'bromine': 71, 'Bromine': 4}	-
+339	acetate	740	-	-
+340	NH4OH	738	-	-
+341	In	731	{'In': 17, 'indium': 586, 'Indium': 128}	P
+342	silicate	728	-	-
+343	α-Bi2O3	728	-	-
+345	BZQ	718	{'BZQ': 30, 'benzoquinone': 688}	-
+346	AZO	715	-	-
+348	C-TiO2	710	-	-
+349	Rh B	707	-	-
+351	AgI	703	-	-
+352	PAN	700	{'PAN': 539, 'polyacrylonitrile': 123, 'Polyacrylonitrile': 34, 'poly(acrylonitrile)': 4}	-
+356	OII	697	{'OII': 14, 'Orange II': 683}	-
+359	TiOx	695	-	-
+360	ZnSe	690	{'ZnSe': 653, 'zinc selenide': 37}	-
+361	MoSe2	686	-	-
+362	1O2	684	-	-
+364	BiPO4	680	-	-
+365	Er	679	{'Er': 467, 'erbium': 151, 'Erbium': 61}	-
+367	hydrocarbons	674	-	-
+368	iodine	671	-	-
+369	PPy	670	{'PPy': 244, 'Polypyrrole': 61, 'polypyrrole': 365}	-
+370	alkoxide	669	-	-
+372	C2H5OH	664	-	-
+373	carbons	664	-	-
+375	La3+	661	-	-
+376	ATO	658	{'ATO': 496, 'antimony': 137, 'Antimony': 25}	-
+377	Zn2SnO4	656	-	-
+378	Bi(NO3)3·5H2O	655	-	-
+379	zirconia	648	-	-
+380	Ba	647	{'Ba': 533, 'barium': 89, 'Barium': 25}	-
+381	2,4-D	647	{'2,4-D': 560, '2,4-dichlorophenoxyacetic acid': 74, '2,4-Dichlorophenoxyacetic acid': 13}	-
+382	APTES	647	{'APTES': 558, '3-aminopropyl triethoxysilane': 8, '3-Aminopropyltriethoxysilane': 5, 'aminopropyltriethoxysilane': 7, '(3-aminopropyl) triethoxysilane': 4, '3-aminopropyltriethoxysilane': 34, '(3-aminopropyl)triethoxysilane': 9, 'γ-aminopropyltriethoxysilane': 6, '3-aminopropyl-triethoxysilane': 8, '(3-Aminopropyl)triethoxysilane': 3, '(3-Aminopropyl) triethoxysilane': 2, 'Aminopropyltriethoxysilane': 1, '3-(aminopropyl)triethoxysilane': 2}	-
+383	salicylic acid	640	-	-
+384	carbon nitride	637	-	-
+386	urchin	632	-	-
+387	CuFe2O4	623	-	-
+388	F-TiO2	619	-	-
+389	Cu(OH)2	613	-	-
+390	benzoic acid	613	-	-
+391	PbO2	613	-	-
+392	Te	612	{'Te': 394, 'tellurium': 211, 'Tellurium': 7}	-
+393	DEA	611	{'DEA': 277, 'diethylamine': 28, 'diethanolamine': 277, 'Diethanolamine': 29}	-
+396	Zn(OH)2	609	-	-
+398	WSe2	604	-	P
+401	VO2	597	-	-
+402	HO2	596	-	-
+403	SiO	593	{'SiO': 423, 'siloxane': 170}	-
+404	KMnO4	592	-	-
+405	O 2p	591	-	-
+406	Methylene Blue	584	-	-
+407	As(III)	584	-	P
+408	Pro	582	{'Pro': 575, 'proline': 7}	-
+409	Phenol	576	-	-
+410	sulfite	569	-	P
+412	HER	565	-	P
+413	FeOOH	562	-	-
+414	SDS	561	{'SDS': 316, 'sodium dodecyl sulphate': 37, 'sodium dodecyl sulfate': 149, 'Sodium dodecyl sulfate': 17, 'sodium dodecyl sulfonate': 10, 'sodium dodecylsulfate': 16, 'Sodium dodecyl sulphate': 2, 'Sodium dodecylsulfate': 3, 'sodium dodecylsulphate': 6, 'Sodium Dodecyl Sulfate': 5}	-
+415	Yb	560	{'Yb': 519, 'ytterbium': 27, 'Ytterbium': 14}	-
+416	NOx	559	{'NOx': 97, 'nitrogen oxide': 71, 'nitrogen oxides': 330, 'Nitrogen oxides': 61}	-
+418	TiC	553	{'TiC': 518, 'titanium carbide': 35}	-
+419	Ni(OH)2	553	-	-
+421	carboxylic	550	-	-
+422	PCP	548	{'PCP': 476, 'pentachlorophenol': 55, 'Pentachlorophenol': 17}	-
+423	CdTe	546	{'CdTe': 532, 'cadmium telluride': 14}	-
+424	S2−	545	-	-
+425	H3PO4	545	-	-
+426	S-TiO2	543	-	P
+428	NaTaO3	541	-	-
+429	Ni2P	537	-	P
+431	GCN	528	{'GCN': 16, 'graphitic carbon nitride': 512}	P
+432	Y2O3	523	-	-
+433	m-TiO2	522	-	-
+434	Bi2MoO6	519	-	-
+435	zeolites	518	-	-
+436	Cr2O3	518	-	-
+438	Cu(II)	516	-	-
+439	perovskites	516	-	-
+440	Ti-O	515	-	-
+442	BnOH	514	{'BnOH': 34, 'benzyl alcohol': 480}	P
+443	silica gel	513	-	-
+444	K	510	{'K': 265, 'potassium': 225, 'Potassium': 20}	-
+445	OH•	507	-	-
+446	Ti(OBu)4	503	-	-
+447	NaNO3	502	-	-
+448	ZnCl2	501	-	-
+449	CBD	499	-	-
+450	Ethanol	497	-	-
+451	MXene	496	-	-
+452	Ir	495	{'Ir': 417, 'iridium': 64, 'Iridium': 14}	-
+453	hydroquinone	494	-	-
+455	cyanide	494	-	-
+456	HAuCl4	492	-	-
+458	Na2CO3	488	-	-
+459	p-BQ	487	{'p-BQ': 49, 'p-benzoquinone': 438}	-
+460	hydrazine	487	-	-
+461	MMT	485	{'MMT': 281, 'montmorillonite': 183, 'Montmorillonite': 21}	-
+462	g-CN	484	-	-
+463	epoxy resin	483	-	-
+464	N2O	482	{'N2O': 448, 'nitrous oxide': 34}	-
+465	nitrite	479	-	-
+466	TiO6	479	-	-
+467	Zn(NO3)2·6H2O	478	-	-
+468	TCE	477	{'TCE': 132, 'trichloroethylene': 306, 'Trichloroethylene': 39}	-
+469	ZnAc	476	{'ZnAc': 127, 'zinc acetate dihydrate': 349}	-
+471	ammonium hydroxide	474	-	-
+473	Pb2+	472	-	-
+474	SBA-15	472	-	-
+475	bismuth oxide	472	-	-
+476	BMO	471	-	P
+477	IBU	464	{'IBU': 200, 'ibuprofen': 217, 'Ibuprofen': 47}	-
+478	TMOs	462	{'TMOs': 20, 'transition metal oxides': 404, 'Transition metal oxides': 38}	P
+480	carboxylate	456	-	-
+482	a-TiO2	452	-	-
+483	zinc nitrate	450	-	-
+484	Ta3N5	450	-	P
+486	phenols	447	-	-
+487	Congo red	446	-	-
+489	ZIF-67	444	-	P
+490	Hydroxyl	441	-	-
+491	non-metal	440	-	-
+492	BJH	437	{'BJH': 219, 'Barrett-Joyner-Halenda': 201, 'Barret-Joyner-Halenda': 17}	-
+494	O2 −	434	-	-
+495	MIL-101	434	-	-
+496	A-TiO2	433	-	-
+497	HMT	432	{'HMT': 110, 'hexamethylenetetramine': 295, 'Hexamethylenetetramine': 27}	-
+498	N719	432	-	P
+499	hydroxyls	430	-	-
+500	lanthanide	429	-	-
+501	Ti(IV)	429	-	-
+502	TiO2-x	428	-	-
+504	Zn(NO3)2	427	-	-
+505	FeS2	426	-	P
+506	sulphur	422	-	-
+507	TiO2(B)	421	-	-
+508	Ti2O3	420	-	-
+509	PO4	420	-	-
+511	polypropylene	418	-	-
+512	malachite green	416	-	-
+513	NiTiO3	416	-	P
+514	Mo6+	415	-	-
+515	Mn3O4	415	-	P
+516	Yb3+	413	-	-
+517	Cu2S	411	-	-
+518	formate	407	-	-
+519	O H	406	-	-
+521	amide	405	-	-
+523	polyurethane	403	-	-
+524	EDTA-2Na	402	-	-
+525	EDS	400	-	-
+526	ferrite	398	-	-
+527	M-TiO2	397	-	-
+528	Gly	396	{'Gly': 90, 'glycine': 236, 'Glycerol': 70}	-
+529	H2PtCl6	395	-	-
+530	triazine	395	-	-
+531	peroxide	395	-	-
+532	ferrites	395	-	P
+534	CH3CHO	394	-	-
+535	Graphene oxide	393	-	-
+536	ZnTiO3	393	-	-
+538	crystal violet	388	-	-
+540	TAA	384	{'TAA': 79, 'thioacetamide': 283, 'Thioacetamide': 22}	-
+542	LaFeO3	384	-	-
+543	CaO	382	{'CaO': 347, 'calcium oxide': 35}	-
+544	NaF	381	{'NaF': 340, 'sodium fluoride': 41}	-
+545	CuPc	381	{'CuPc': 348, 'copper phthalocyanine': 33}	P
+546	sapphire	380	-	-
+547	white precipitate	379	-	-
+548	Fe(II)	379	-	-
+549	GAA	378	{'GAA': 4, 'glacial acetic acid': 374}	P
+550	silane	378	-	-
+551	β-Ga2O3	377	-	-
+552	CZO	377	-	P
+553	PdO	376	-	-
+555	CuI	371	{'CuI': 368, 'copper iodide': 3}	-
+556	aldehydes	371	-	-
+557	NaYF4	369	-	P
+558	HMTA	368	{'HMTA': 342, 'hexamethylene tetramine': 26}	-
+559	persulfate	367	-	-
+560	ICDD	366	-	-
+561	NaHCO3	365	{'NaHCO3': 345, 'sodium hydrogen carbonate': 20}	-
+562	TiOTi	364	-	-
+564	O−	363	-	-
+566	Triton X-100	362	-	-
+567	Co3+	361	-	-
+569	iron oxides	357	-	-
+570	SO3	356	-	-
+571	EDA	355	{'EDA': 34, 'Ethylenediamine': 21, 'ethylenediamine': 275, 'ethylene diamine': 25}	-
+572	NH4VO3	355	-	-
+573	pyridine	355	-	-
+574	Sb2O3	354	-	-
+577	ZIF	351	-	-
+579	PAH	348	{'PAH': 313, 'poly(allylamine hydrochloride)': 28, 'polyallylamine hydrochloride': 5, 'Poly(allylamine hydrochloride)': 2}	-
+580	As	348	{'As': 1, 'arsenic': 299, 'Arsenic': 48}	P
+581	halide	348	-	-
+582	hydroxides	348	-	-
+584	DOC	345	-	-
+585	CuFeO2	344	-	P
+586	HAp	342	{'HAp': 16, 'hydroxyapatite': 277, 'Hydroxyapatite': 49}	-
+588	kaolinite	342	-	-
+589	benzaldehyde	341	-	-
+590	La2O3	341	-	P
+591	UiO-66-NH2	341	-	-
+592	MCM-41	339	-	-
+593	oxalate	337	-	-
+595	nitrates	335	-	-
+597	As(V)	332	-	P
+598	kaolin	332	-	-
+599	polyamide	331	-	-
+600	pyrochlore	329	-	P
+601	HCO3	328	-	-
+602	TaON	325	-	-
+603	graphite oxide	323	-	-
+604	Nd3+	323	-	-
+605	Sn2+	322	-	-
+606	MEA	321	{'MEA': 197, 'monoethanolamine': 108, 'Monoethanolamine': 16}	-
+607	diatomite	321	-	-
+608	n-TiO2	321	-	-
+610	UiO-66	321	-	-
+611	NiS	318	-	-
+612	glassy carbon	317	-	-
+613	CH3COOH	316	-	-
+614	La2Ti2O7	316	-	P
+615	carbon monoxide	315	-	-
+616	TiOH	314	-	-
+617	TMP	314	-	-
+618	NH4Cl	313	{'NH4Cl': 269, 'ammonium chloride': 44}	-
+619	polycarbonate	313	-	-
+620	H3BO3	313	-	-
+621	apatite	313	-	-
+622	methyl blue	313	-	-
+623	aldehyde	312	-	-
+624	CN	312	-	-
+625	Ti3C2	312	-	-
+626	MTBE	310	{'MTBE': 296, 'methyl tert-butyl ether': 14}	P
+627	R-TiO2	310	-	P
+628	Zn-O	310	-	-
+629	amines	309	-	-
+630	iodide	309	-	-
+631	Ga2O3	307	-	-
+634	Co-Pi	305	-	P
+635	m-BiVO4	305	-	P
+636	ester	304	-	-
+637	PbTiO3	303	-	P
+638	bentonite	302	-	-
+639	BSO	302	-	-
+640	Zn(CH3COO)2·2H2O	301	-	-
+641	G-TiO2	300	-	-
+644	α-Al2O3	299	-	-
+645	acac	298	{'acac': 230, 'acetylacetonate': 68}	-
+646	ZnPc	298	{'ZnPc': 281, 'zinc phthalocyanine': 17}	-
+647	TiOSO4	298	-	-
+648	Y	297	{'Y': 2, 'yttrium': 265, 'Yttrium': 30}	P
+649	HClO4	297	-	-
+650	Dy3+	297	-	-
+651	C2H4	297	-	P
+652	sulphate	296	-	-
+653	Rh	295	{'Rh': 220, 'rhodium': 63, 'Rhodium': 12}	-
+655	sulfides	292	-	-
+656	DMMP	291	{'DMMP': 274, 'dimethyl methylphosphonate': 17}	P
+659	TiO2(001)	291	-	P
+660	cerium oxide	289	-	-
+661	paracetamol	289	-	-
+662	Na2WO4·2H2O	288	-	-
+663	methylene	288	-	-
+664	Silica	288	-	-
+665	Ti(OC4H9)4	287	-	-
+666	AMX	286	{'AMX': 29, 'amoxicillin': 224, 'Amoxicillin': 33}	P
+667	O2 •−	286	-	-
+668	TiCl3	286	-	-
+669	FeCl3·6H2O	286	-	-
+670	Tm3+	285	-	-
+672	H2 gas	283	-	-
+673	sepiolite	283	-	-
+675	t-BuOH	282	{'t-BuOH': 271, 'tert-butylalcohol': 11}	-
+677	Methyl Orange	282	-	-
+678	Ti(OH)4	282	-	-
+680	C=O	280	-	-
+681	PhP	280	-	P
+682	TMA	279	{'TMA': 201, 'trimethylaluminum': 15, 'Trimethylaluminum': 6, 'trimethylamine': 57}	-
+684	TCH	278	{'TCH': 30, 'tetracycline hydrochloride': 207, 'Tetracycline hydrochloride': 41}	P
+685	cellulose acetate	278	-	-
+686	HOO	277	{'HOO': 81, 'hydroperoxyl': 196}	-
+687	PTA	277	{'PTA': 234, 'phosphotungstic acid': 43}	-
+688	naphthalene	276	-	-
+689	titanium alkoxide	275	-	-
+690	MnO	274	-	-
+691	Fe(NO3)3·9H2O	271	-	-
+692	COH	271	-	-
+694	γ-Al2O3	269	-	-
+695	cobalt ferrite	269	-	P
+696	Ti6Al4V	268	-	-
+697	scheelite	268	-	P
+699	CCl4	267	-	-
+700	CoOx	267	-	P
+702	Si(100)	266	-	-
+703	soda lime	266	-	-
+704	Bi2O2CO3	266	-	-
+705	Ag2CO3	266	-	-
+706	nitrobenzene	264	-	P
+707	TCPP	264	-	-
+708	Mn3+	263	-	-
+709	porphyrins	262	-	-
+710	4-AP	261	{'4-AP': 138, '4-aminophenol': 123}	-
+711	c-TiO2	261	-	-
+712	SMX	260	{'SMX': 29, 'sulfamethoxazole': 231}	P
+713	zinc nitrate hexahydrate	260	-	-
+714	CHCl3	260	-	-
+715	TCO	260	-	-
+716	Titanium oxide	259	-	-
+717	sodium citrate	259	-	-
+718	PTO	259	-	-
+719	•O2	258	-	-
+720	O-H	258	-	-
+721	Ozone	258	-	-
+722	p-Cu2O	258	-	P
+723	N-ZnO	256	-	P
+724	COU	255	{'COU': 14, 'coumarin': 241}	P
+726	K2Cr2O7	254	-	-
+727	IrO2	254	-	-
+728	titanium tetrachloride	253	-	-
+729	sodium sulfate	252	-	-
+730	Hg2+	252	-	-
+731	rhodamine	252	-	-
+732	1,4-dioxane	251	-	-
+733	BN	251	-	-
+735	KNO3	250	-	-
+736	CuOx	250	-	P
+737	ammonium oxalate	249	-	-
+738	ethyl	248	-	-
+739	Sr2+	248	-	P
+740	PNP	247	{'PNP': 58, 'p-nitrophenol': 189}	-
+742	nTiO2	247	-	P
+743	MPA	246	{'MPA': 210, '3-mercaptopropionic acid': 25, 'mercaptopropionic acid': 11}	-
+744	clinoptilolite	246	-	P
+745	KBr	245	{'KBr': 163, 'potassium bromide': 82}	-
+746	C-H	245	-	-
+747	PES	244	{'PES': 99, 'polyethersulfone': 112, 'Polyethersulfone': 12, 'poly(ether sulfone)': 2, 'polyether sulfone': 8, 'Polyether sulfone': 4, 'poly(ethersulfone)': 4, 'polyethersulphone': 3}	-
+748	Cu 2p3	244	-	-
+749	AgInS2	244	-	-
+750	lactic acid	244	-	-
+751	thiophene	244	-	-
+753	ZnAl2O4	242	-	-
+754	n-ZnO	241	-	-
+755	caffeine	241	-	-
+756	R6G	240	{'R6G': 41, 'Rhodamine 6G': 108, 'rhodamine 6G': 91}	-
+757	indigo carmine	240	-	-
+758	Graphite	240	-	-
+759	S 2p	240	-	-
+760	α-MoO3	240	-	P
+762	Acetone	239	-	-
+763	MTiO2	239	-	-
+764	ZnO2	239	-	-
+765	SiOx	238	{'SiOx': 157, 'silicon oxide': 81}	-
+766	CsxWO3	238	-	-
+767	Ti-O-Ti	237	-	-
+769	Pc	237	-	-
+770	Br−	237	-	-
+771	MIL-100	237	-	-
+772	superoxide radical	236	-	-
+773	fluorite	235	-	-
+775	limestone	234	-	-
+776	HTA	233	{'HTA': 33, '2-hydroxyterephthalic acid': 200}	P
+777	imidacloprid	233	-	P
+778	THPP	233	-	P
+779	NiWO4	232	-	P
+780	Fe0	231	-	-
+781	e−–h+	231	-	-
+782	CuBi2O4	231	-	P
+783	chlorophyll	231	-	-
+784	P-TiO2	231	-	-
+785	CsPbBr3	231	-	P
+786	potassium permanganate	230	-	-
+787	TiF4	230	-	-
+788	CuCrO2	230	-	P
+789	tungsten trioxide	229	-	P
+790	Ga3+	229	-	P
+791	K2SO4	229	-	-
+792	Hydrogen peroxide	229	-	-
+793	KNbO3	229	-	P
+794	O 1s	228	-	-
+795	ofloxacin	228	-	P
+796	TCS	227	{'TCS': 198, 'Triclosan': 29}	-
+797	silanol	227	-	-
+798	polyol	227	-	-
+799	Mn4+	227	-	-
+800	TEMPO	225	{'TEMPO': 215, '2,2,6,6-tetramethylpiperidine-1-oxyl': 9, '2,2,6,6-Tetramethyl-1-piperidinyloxy': 1}	-
+801	Fe2TiO5	225	-	-
+802	CdTiO3	225	-	P
+803	cuprous oxide	223	-	-
+804	OOH	223	-	-
+805	LaNiO3	223	-	P
+806	C6H6	223	-	-
+808	titanium oxides	219	-	-
+810	Cd(OH)2	219	-	P
+811	Quartz	219	-	-
+812	Y3+	219	-	P
+813	fullerene	217	-	-
+814	Eosin Y	217	-	-
+815	CoTiO3	217	-	P
+816	TFA	216	{'TFA': 115, 'trifluoroacetic acid': 93, 'Trifluoroacetic acid': 7, 'trifluoracetic acid': 1}	-
+818	Ho	215	{'Ho': 185, 'holmium': 25, 'Holmium': 5}	-
+819	PTh	215	{'PTh': 20, 'polythiophene': 195}	P
+820	PFAS	215	-	-
+821	Toluene	214	-	-
+822	rare-earth	214	-	-
+823	Cu(I)	214	-	-
+824	nitride	213	-	-
+825	DEET	213	-	P
+826	Na2WO4	213	-	-
+827	Sm2O3	213	-	-
+828	TiO2-GO	212	-	-
+829	phenyl	212	-	-
+830	zinc ferrite	212	-	P
+831	DMP	211	{'DMP': 195, 'dimethyl phthalate': 16}	-
+832	K2S2O8	211	-	-
+833	carbonates	211	-	-
+834	Bi(NO3)3	211	-	-
+835	AlN	211	-	-
+836	hydrazine hydrate	211	-	-
+837	PAHs	210	{'PAHs': 120, 'polycyclic aromatic hydrocarbons': 64, 'polyaromatic hydrocarbons': 16, 'Polycyclic aromatic hydrocarbons': 10}	-
+838	4 Pa	210	-	-
+839	Formaldehyde	210	-	-
+840	transition metal oxide	210	-	-
+841	Urea	209	-	-
+842	FeO	209	-	-
+843	(NH4)2TiF6	209	-	-
+844	Ti-OH	209	-	-
+845	Zn–O	208	-	-
+847	ketones	208	-	-
+849	thiol	207	-	-
+850	Cl2	207	-	-
+851	Tb	206	{'Tb': 183, 'terbium': 18, 'Terbium': 5}	-
+852	C element	206	-	-
+853	b-TiO2	206	-	P
+854	PCL	205	{'PCL': 141, 'polycaprolactone': 45, 'Polycaprolactone': 6, 'poly(ε-caprolactone)': 9, 'Poly(ε-caprolactone)': 2, 'poly(caprolactone)': 2}	-
+855	Zn(II)	205	-	P
+856	MIL	205	-	-
+857	Mo5+	205	-	-
+858	TiO₂	204	-	-
+859	butanol	203	-	-
+860	TSA	203	-	-
+862	Ti element	202	-	-
+863	alkoxy	202	-	-
+864	Ti2+	202	-	-
+865	oxynitride	202	-	-
+866	Sodium hydroxide	201	-	-
+867	β-In2S3	201	-	P
+868	LiNbO3	201	-	-
+869	·O2	201	-	-
+870	Fe4+	200	-	-
+871	NH2-MIL-125	200	-	P
+872	Pal	199	{'Pal': 7, 'palygorskite': 173, 'Palygorskite': 19}	-
+873	δ-Bi2O3	199	-	-
+874	LTO	199	-	P
+875	Cu3Se2	199	-	P
+876	SnCl2	198	-	-
+878	CuCl2	198	-	-
+880	B2O3	197	-	-
+882	KHP	196	{'KHP': 149, 'potassium hydrogen phthalate': 47}	P
+883	oxygen molecule	196	-	-
+884	tri-s-triazine	196	-	-
+885	goethite	195	-	-
+886	Fe–O	195	-	-
+887	P25	194	-	-
+888	tungstate	194	-	P
+889	alachlor	194	-	-
+890	NaNbO3	194	-	P
+891	NaAc	193	{'NaAc': 52, 'sodium acetate': 141}	-
+892	tartaric acid	193	-	-
+893	niobate	192	-	P
+894	BaWO4	192	-	P
+895	N D	192	-	-
+896	nitric oxide	191	-	-
+897	GSH	191	-	P
+898	LaB6	191	-	-
+899	Cu(NO3)2·3H2O	191	-	-
+900	BWO	191	-	P
+901	MoOx	191	-	-
+902	meso-TiO2	191	-	-
+903	Ti–O–C	190	-	-
+904	Rh-B	190	-	-
+905	C-ZnO	190	-	P
+906	OCO	189	-	-
+907	Azo	189	-	-
+908	Ca(OH)2	189	-	-
+909	TiO2-2	188	-	P
+910	∙OH	187	-	-
+911	potassium hydroxide	187	-	-
+912	C-N	187	-	-
+913	Brookite	187	-	-
+914	Cys	186	{'Cys': 81, 'cysteine': 105}	-
+915	FeTiO3	186	-	-
+916	NaClO4	186	-	P
+917	Sn3O4	186	-	P
+918	Eu2O3	186	-	-
+919	Ti(III)	185	-	-
+920	The element	185	-	-
+921	−OH	185	-	-
+922	C-C	185	-	-
+923	Alizarin Yellow	185	-	P
+924	SnCl4	184	-	-
+925	Mg(OH)2	184	-	-
+926	Hg(II)	184	-	P
+927	chalcogenides	184	-	P
+928	silica glass	183	-	-
+930	TPP	182	{'TPP': 171, 'sodium tripolyphosphate': 3, 'tripolyphosphate': 1, 'tetrapolyphosphate': 7}	-
+931	Zn2TiO4	182	-	-
+932	bismuth vanadate	182	-	-
+933	MIL-125	182	-	P
+934	bilirubin	182	-	P
+935	mpg-C3N4	182	-	P
+936	ZTO	181	{'ZTO': 163, 'zinc tin oxide': 18}	P
+937	ferrous	181	-	-
+938	ether	181	-	-
+939	bismuth nitrate	181	-	P
+940	diazinon	181	-	P
+942	CaMoO4	180	-	P
+943	Cs	179	{'Cs': 127, 'cesium': 44, 'Cesium': 8}	-
+944	Fe 2p3	178	-	-
+945	Rh6G	178	-	P
+946	S-g-C3N4	178	-	P
+947	NiOOH	178	-	P
+948	K2CO3	177	{'K2CO3': 144, 'potassium carbonate': 33}	-
+949	MnWO4	177	-	P
+950	PbO	176	-	-
+951	congo red	176	-	-
+952	Na2HPO4	176	-	-
+953	Tween 20	176	-	-
+954	Ag2WO4	176	-	P
+955	OLA	175	{'OLA': 27, 'oleylamine': 148}	P
+956	Ti(SO4)2	175	-	-
+957	TiO2-Ag	175	-	-
+958	m-WO3	175	-	-
+959	OTC	174	{'OTC': 35, 'oxytetracycline': 117, 'Oxytetracycline': 22}	P
+960	sodium nitrate	174	-	-
+961	Cr6+	174	-	-
+962	COC	173	{'COC': 173}	-
+964	superoxide anion	173	-	-
+965	WO3·H2O	173	-	P
+966	Ti-Fe2O3	173	-	P
+967	Bi2O4	173	-	P
+968	Pluronic P123	172	-	-
+969	bicarbonate	172	-	-
+970	Co(II)	172	-	-
+971	acrylate	172	-	-
+972	perlite	172	-	P
+973	4-CBA	171	{'4-CBA': 122, '4-chlorobenzoic acid': 49}	P
+974	PSf	171	{'PSf': 42, 'Polysulfone': 20, 'polysulfone': 109}	-
+975	nano-ZnO	171	-	-
+976	hydroxy	171	-	-
+977	tartrazine	171	-	-
+978	MoC	171	-	P
+979	Cu3P	171	-	P
+980	super oxide	170	-	-
+981	Aeroxide	169	-	-
+982	Mn2O3	169	-	P
+983	hydroxyl radicals	169	-	-
+984	DETA	168	{'DETA': 125, 'diethylenetriamine': 40, 'Diethylenetriamine': 3}	-
+985	TiO2-1	168	-	-
+986	4-ATP	167	{'4-ATP': 157, '4-aminothiophenol': 10}	P
+987	natural graphite	167	-	-
+988	resorcinol	167	-	-
+989	dichromate	167	-	-
+990	TiO2− x N	167	-	P
+991	phthalocyanine	167	-	-
+992	DPPH	166	{'DPPH': 157, '1,1-diphenyl-2-picrylhydrazyl': 3, '2,2-diphenyl-1-picrylhydrazyl': 4, '2,2-Diphenyl-1-picrylhydrazyl': 2}	-
+993	TMB	166	{'TMB': 152, '3,3′,5,5′-tetramethylbenzidine': 4, '3,3′,5,5′-Tetramethylbenzidine': 4, '1,3,5-trimethylbenzene': 6}	-
+995	methyl red	166	-	-
+996	OL	166	-	-
+997	Ti+4	166	-	-
+998	ROX	165	-	P
+999	ZnFe	165	-	P
+1000	TiOC	164	-	-
+1001	creatinine	164	-	-
+1003	Graphitic carbon nitride	164	-	-
+1004	Kronos	164	-	-
+1005	CaTiO3	163	-	P
+1006	epoxide	163	-	-
+1007	oxynitrides	163	-	-
+1008	β-PbO2	163	-	P
+1009	CdCl2	163	-	P
+1010	alkoxides	163	-	-
+1011	Si4+	163	-	-
+1012	PCDD	163	-	P
+1013	PABA	163	-	P
+1014	S 2p3	162	-	-
+1015	Cu(NO3)2	162	-	-
+1016	Ag3VO4	162	-	P
+1017	maghemite	162	-	-
+1018	lanthanides	162	-	-
+1019	aluminum oxide	161	-	-
+1020	acetaminophen	161	-	-
+1021	h-BN	161	-	-
+1022	zinc chloride	160	-	-
+1023	Zinc acetate dihydrate	160	-	-
+1024	H3PW12O40	160	-	P
+1025	dichlorvos	160	-	P
+1026	MoO2	160	-	P
+1027	Pt0	160	-	P
+1028	CoP	160	-	P
+1029	PFOS	159	{'PFOS': 142, 'perfluorooctane sulfonate': 9, 'perfluorooctanesulfonic acid': 3, 'perfluorooctanesulfonate': 5}	-
+1030	TiO2-N	159	-	P
+1031	AgVO3	159	-	P
+1032	titanium alkoxides	159	-	-
+1033	C–OH	159	-	-
+1034	AgX	159	-	-
+1035	MDA	158	{'MDA': 129, 'Malondialdehyde': 4, 'malondialdehyde': 25}	-
+1036	H2WO4	158	-	-
+1037	corundum	158	-	-
+1038	CS2	158	-	-
+1039	HONO	158	-	-
+1040	furfural	158	-	-
+1041	MgFe2O4	158	-	P
+1042	MnOx	158	-	-
+1043	EE2	158	-	P
+1044	O-g-C3N4	158	-	P
+1045	DBP	157	{'DBP': 112, 'Dibutyl phthalate': 7, 'dibutyl phthalate': 38}	-
+1046	AgO	157	-	-
+1047	chlorpyrifos	157	-	P
+1048	TiO2 rutile	157	-	-
+1049	DCA	156	{'DCA': 102, 'dichloroacetic acid': 54}	-
+1050	Ag-Cu	156	-	P
+1051	Cu2ZnSnS4	156	-	P
+1052	TBBPA	155	{'TBBPA': 145, 'tetrabromobisphenol A': 10}	P
+1053	Silver nitrate	155	-	-
+1054	ethylbenzene	155	-	-
+1055	Zn 2p3	155	-	-
+1056	O element	154	-	-
+1057	chalcogenide	154	-	-
+1059	MPD	153	{'MPD': 132, 'm-phenylenediamine': 13, 'M-phenylenediamine': 1, 'm-Phenylenediamine': 4, 'm-phenylene diamine': 3}	-
+1060	phosphorous	153	-	-
+1061	NH4NO3	153	-	P
+1062	Tristar	152	-	-
+1063	DMPO-OH	152	-	-
+1064	DMDS	152	-	-
+1065	BaZrO3	152	-	P
+1066	Tetracycline	151	-	P
+1067	-oxide	151	-	-
+1068	heptazine	151	-	-
+1069	indium oxide	151	-	-
+1070	Serpone	151	-	-
+1071	1-butanol	151	-	-
+1073	DON	151	-	P
+1074	PMS	150	{'PMS': 56, 'peroxymonosulfate': 94}	-
+1075	N element	150	-	-
+1076	ZnGa2O4	150	-	P
+1077	Bi–O	150	-	-
+1078	Fe(NO3)3	150	-	P
+1079	nitro	150	-	-
+1080	Pd2+	150	-	-
+1081	CH3CN	150	-	-
+1082	MMO	150	-	P
+1083	sodium carbonate	150	-	-
+1084	propane	150	-	-
+1085	sodium tungstate	150	-	-
+1086	cyano	150	-	-
+1088	propylene	149	-	-
+1089	Acetaldehyde	149	-	-
+1090	copper oxides	149	-	-
+1091	sulfonate	149	-	-
+1092	CaWO4	149	-	P
+1093	Hematite	149	-	P
+1094	Co-ZnO	149	-	P
+1095	GaAs	148	{'GaAs': 140, 'gallium arsenide': 8}	-
+1096	2-ME	148	{'2-ME': 5, '2-methoxyethanol': 143}	P
+1097	TiO2 P25	148	-	-
+1098	O2 •	148	-	-
+1099	PAM	147	{'PAM': 18, 'polyacrylamide': 119, 'Polyacrylamide': 10}	P
+1100	ferric	147	-	-
+1101	Co 2p3	147	-	-
+1102	MnFe2O4	147	-	P
+1103	benzenoid	147	-	-
+1104	Nd2O3	147	-	P
+1105	PPD	146	{'PPD': 109, 'p-phenylenediamine': 37}	-
+1106	tungsten halogen	146	-	P
+1107	Diamond	146	-	-
+1108	Na2S·9H2O	146	-	-
+1109	ZnSO4	146	-	-
+1110	Au3+	145	-	-
+1111	Cd(NO3)2	145	-	P
+1112	N–O	145	-	-
+1113	n-Si	145	-	-
+1114	W-TiO2	145	-	-
+1115	BiOX	144	{'BiOX': 33, 'bismuth oxyhalides': 84, 'Bismuth oxyhalides': 27}	-
+1116	SrWO4	144	-	P
+1117	KH2PO4	144	-	-
+1118	h-WO3	144	-	P
+1119	ketone	143	-	-
+1120	metal sulfides	143	-	-
+1121	vanadium oxide	143	-	-
+1122	TiO2-3	143	-	P
+1123	Co9S8	143	-	P
+1124	4-HBA	142	{'4-HBA': 95, '4-hydroxybenzoic acid': 47}	P
+1125	DCIP	142	{'DCIP': 126, '2,6-dichloroindophenol': 16}	-
+1127	Nano-TiO2	142	-	-
+1128	alkanes	142	-	-
+1129	Ce2O3	142	-	-
+1130	NiFe	142	-	-
+1131	Bi2Se3	142	-	P
+1132	PHE	141	{'PHE': 85, 'phenanthrene': 56}	-
+1133	Pluronic	141	-	-
+1134	V3+	141	-	-
+1135	SnSe	141	-	P
+1136	r-TiO2	141	-	P
+1138	dioxygen	140	-	-
+1139	Perovskite	140	-	-
+1140	Ammonia	140	-	-
+1141	BTEX	140	-	-
+1142	Pb(II)	140	-	P
+1143	chlorophenols	140	-	P
+1145	PtO	140	-	P
+1146	FeSO4	140	-	-
+1147	CH3CH2OH	140	-	-
+1148	lindane	140	-	P
+1149	BrO3	140	-	-
+1150	Si-O-Si	140	-	-
+1151	LiCl	139	{'LiCl': 113, 'Lithium chloride': 3, 'lithium chloride': 23}	-
+1152	microcystin	139	-	P
+1153	trisodium citrate	139	-	-
+1154	HfO2	139	-	-
+1155	BiI3	139	-	P
+1156	Bi-O	139	-	P
+1157	COO−	138	-	-
+1158	phosgene	138	-	-
+1159	Ti3C2Tx	138	-	-
+1160	MgO2	138	-	P
+1161	PbCrO4	138	-	P
+1163	B-TiO2	137	-	P
+1164	MZO	137	-	P
+1165	BaMoO4	137	-	P
+1166	DDT	136	{'DDT': 89, 'dodecanethiol': 25, '1-dodecanethiol': 18, 'dichlorodiphenyltrichloroethane': 4}	-
+1167	WCl6	136	-	-
+1168	purified water	136	-	-
+1169	Congo Red	136	-	-
+1170	TiO2-B	136	-	-
+1171	silicon dioxide	136	-	-
+1172	PdCl2	136	-	-
+1174	PVAc	135	{'PVAc': 100, 'polyvinyl acetate': 24, 'poly(vinyl acetate)': 11}	-
+1175	AIBN	135	{'AIBN': 110, 'azobisisobutyronitrile': 7, '2,2′-azobisisobutyronitrile': 7, 'Azodiisobutyronitrile': 3, '2,2-azobisisobutyronitrile': 3, 'azodiisobutyronitrile': 5}	-
+1176	1,4-benzoquinone	135	-	-
+1177	zinc acetate dehydrate	135	-	-
+1178	pure oxygen	135	-	-
+1179	MXenes	135	-	-
+1180	LaPO4	135	-	-
+1181	⋅OH	135	-	-
+1182	Mo4+	135	-	-
+1183	CuAlO2	135	-	P
+1184	ZrTiO4	135	-	-
+1186	N3−	134	-	P
+1187	SnCl2·2H2O	134	-	-
+1188	DTG	134	-	-
+1189	titanium hydroxide	134	-	-
+1190	resazurin	134	-	-
+1191	silicates	134	-	-
+1192	uranium	134	-	-
+1193	CaFe2O4	134	-	P
+1194	sulphide	134	-	-
+1195	LaMnO3	134	-	P
+1196	BDE47	134	-	P
+1197	allophane	134	-	P
+1198	TIPT	133	{'TIPT': 76, 'tetraisopropyl orthotitanate': 38, 'Tetraisopropyl orthotitanate': 19}	-
+1199	PVB	133	{'PVB': 118, 'polyvinyl butyral': 12, 'Polyvinyl butyral': 3}	-
+1200	silver oxide	133	-	-
+1201	xenon lamp	133	-	-
+1202	Fe oxide	133	-	P
+1203	ZnSnO3	133	-	-
+1204	fructose	133	-	-
+1205	n-butanol	133	-	-
+1206	cyanuric acid	133	-	-
+1207	hydrogen titanate	133	-	P
+1208	ZFO	133	-	P
+1209	N-GQDs	133	-	P
+1210	CH4N2S	132	-	-
+1211	Pd–TiO2	132	-	-
+1212	sphalerite	132	-	P
+1213	Pluronic F127	132	-	-
+1214	Co(NO3)2·6H2O	132	-	-
+1215	Orange G	132	-	-
+1216	wollastonite	132	-	-
+1217	γ-Bi2O3	132	-	-
+1218	TBO	131	{'TBO': 104, 'toluidine blue O': 25, 'Toluidine Blue O': 2}	P
+1219	CPFX	131	-	P
+1221	chlorobenzene	131	-	-
+1222	nickel ferrite	131	-	P
+1223	imine	131	-	-
+1224	methoxy	131	-	-
+1225	polysiloxane	131	-	-
+1226	NiMoO4	131	-	-
+1227	DEG	130	{'DEG': 38, 'diethylene glycol': 82, 'Diethylene glycol': 10}	-
+1228	BPB	130	{'BPB': 100, 'bromophenol blue': 30}	P
+1229	K3[Fe(CN)6]	130	-	P
+1230	mullite	130	-	-
+1231	sodium sulfide	130	-	P
+1232	charcoal	130	-	-
+1233	phthalic acid	130	-	-
+1234	NaN3	130	-	P
+1235	Pt4+	130	-	P
+1236	malathion	130	-	P
+1237	heritage	130	-	-
+1238	T-ZnO	130	-	-
+1239	carbohydrates	129	-	-
+1240	CNC	129	-	-
+1242	[Ru(bpy)3]2+	129	-	P
+1243	fluorocarbon	129	-	-
+1244	NaBr	128	{'NaBr': 113, 'sodium bromide': 15}	-
+1245	STRIPIN	128	-	-
+1246	PbMoO4	128	-	P
+1247	PbSe	128	-	P
+1248	NH4Ac	127	{'NH4Ac': 10, 'ammonium acetate': 117}	P
+1249	absolute alcohol	127	-	-
+1250	OH·	127	-	-
+1251	mercury vapor	127	-	-
+1252	dicyandiamide	127	-	-
+1253	Co-TiO2	127	-	-
+1254	C2H2	127	-	-
+1255	JEM-2100	127	-	-
+1256	bismuth titanate	127	-	P
+1257	V-TiO2	127	-	-
+1258	TTZ	127	-	P
+1259	NZO	127	-	P
+1260	PECO	127	-	P
+1262	Pyr	125	{'Pyr': 2, 'pyrene': 123}	P
+1263	Fe element	125	-	-
+1266	sodium titanate	125	-	P
+1267	C6H12N4	125	-	-
+1268	propanol	125	-	-
+1270	Cd1	125	-	P
+1271	isoproturon	125	-	-
+1272	TiO2-V	125	-	P
+1273	TCP	124	{'TCP': 48, 'tricalcium phosphate': 4, '2,4,6-trichlorophenol': 53, 'trichlorophenol': 19}	P
+1274	PZT	124	{'PZT': 117, 'lead zirconate titanate': 7}	-
+1275	hydroxyl radical	124	-	-
+1276	halo	124	-	-
+1278	NaH2PO4	124	-	-
+1279	cassiterite	124	-	-
+1280	i-PrOH	124	-	-
+1281	Ni3C	124	-	P
+1282	FeSe	124	-	P
+1283	O 1 s	123	-	-
+1284	azo-dye	123	-	-
+1285	NaBiO3	123	-	P
+1286	ilmenite	123	-	-
+1287	transition-metal	123	-	-
+1288	2H2O	123	-	-
+1289	Zeolite	123	-	-
+1290	imazapyr	123	-	P
+1291	Cu7S4	123	-	P
+1292	Cu2Se	123	-	P
+1293	Ni2O3	122	-	-
+1294	methyl parathion	122	-	P
+1295	-TiO2	122	-	-
+1296	scCO2	122	-	-
+1297	Cu2SnSe3	122	-	P
+1298	FAS	121	{'FAS': 60, 'Fluoroalkylsilane': 4, 'fluoroalkylsilane': 29, 'fluorinated alkyl silane': 5, 'fluoroalkylsilanes': 5, 'fluoroalkyl silane': 6, 'Fluoroalkylsilanes': 1, 'ferrous ammonium sulfate': 11}	-
+1299	Aluminum	121	-	-
+1300	I-TiO2	121	-	P
+1301	Zinc nitrate hexahydrate	121	-	-
+1302	Ni3+	121	-	-
+1303	Ethylene	121	-	-
+1304	h-TiO2	121	-	-
+1305	MCs	120	{'MCs': 12, 'microcystins': 108}	P
+1306	2-methylimidazole	120	-	-
+1307	Ag2CrO4	120	-	P
+1308	Oh	120	-	-
+1309	Ag-Ag2O	120	-	P
+1310	2D-WO3	120	-	P
+1311	PCBM	119	{'PCBM': 113, 'phenyl-C61-butyric acid methyl ester': 4, '[6,6]-phenyl-C61-butyric acid methyl ester': 2}	-
+1312	superoxides	119	-	-
+1313	Zni	119	-	-
+1314	calcite	119	-	-
+1315	Mo2C	119	-	P
+1316	paraquat	119	-	P
+1317	CH2O	118	-	-
+1318	TAOH	118	-	P
+1319	SrCO3	118	-	P
+1321	quinone	118	-	-
+1322	C2H6	118	-	P
+1323	aromatic	118	-	-
+1324	Spurr	118	-	-
+1325	CaF2	118	-	-
+1326	oxygens	118	-	-
+1327	chromate	118	-	-
+1328	Ho3+	118	-	-
+1329	7-hydroxycoumarin	118	-	-
+1330	LiClO4	117	-	-
+1331	Zinc acetate	117	-	-
+1332	AcOH	117	-	-
+1333	CO(NH2)2	117	-	-
+1334	TriStar	117	-	-
+1335	SiOH	117	-	-
+1336	anthraquinone	117	-	-
+1337	luminol	117	-	P
+1338	NIP	117	-	P
+1339	Tris	116	{'Tris': 71, 'tris(hydroxymethyl) aminomethane': 2, 'tris': 25, 'Tris(hydroxymethyl)aminomethane': 3, 'Tris(hydroxymethyl) aminomethane': 2, 'tris(hydroxymethyl)aminomethane': 11, 'tris(hydroxymethyl)': 2}	-
+1340	Trp	116	{'Trp': 72, 'Tryptophan': 3, 'tryptophan': 41}	P
+1342	MoO	116	-	P
+1343	Ti4+ 2p3	116	-	-
+1344	sodium silicate	116	-	-
+1345	2,4-DNP	116	-	P
+1346	sodium oxalate	116	-	-
+1347	Ti02	116	-	P
+1348	CZnO2	116	-	P
+1349	DPC	115	{'DPC': 42, 'diphenylcarbazide': 45, '1,5-diphenylcarbazide': 28}	P
+1350	NOR	115	{'NOR': 17, 'norfloxacin': 98}	P
+1351	one time	115	-	-
+1352	Benzene	115	-	-
+1353	Ti+3	115	-	P
+1354	vanadate	115	-	-
+1355	TiP	115	-	-
+1356	Eosin	115	-	P
+1357	HCN	115	-	P
+1358	Ti-oxide	115	-	P
+1359	CoOOH	115	-	P
+1360	zinc vanadate	115	-	P
+1361	TBAOH	114	{'TBAOH': 49, 'tetrabutylammonium hydroxide': 65}	P
+1363	propan-2-ol	114	-	-
+1364	ferrocene	114	-	-
+1365	D2O	114	-	-
+1366	exhaust gas	114	-	-
+1367	Ta5+	114	-	P
+1368	Helmholtz	114	-	-
+1369	Ag2MoO4	114	-	P
+1370	Tungsten oxide	113	-	-
+1371	BiCl3	113	-	-
+1372	saturated KCl	113	-	P
+1373	Pt-TiO2	113	-	-
+1374	p-NP	113	-	P
+1376	GZO	113	-	-
+1377	TiO2-C	113	-	-
+1378	PhC	113	-	P
+1379	N-RGO	113	-	P
+1380	CMC	112	{'CMC': 2, 'Carboxymethyl': 18, 'carboxymethyl': 80, 'sodium carboxymethyl': 11, 'sodium carboxymethylcellulose': 1}	P
+1381	N–F	112	-	-
+1382	UV254	112	-	P
+1383	tungsten oxides	112	-	P
+1384	metal-oxygen	112	-	P
+1385	TIP	112	-	-
+1386	Fe-O	112	-	-
+1387	Gd2O3	112	-	-
+1388	TMAC	112	-	-
+1390	propene	111	-	-
+1391	acid red G	111	-	P
+1392	orange II	111	-	-
+1393	potassium dichromate	111	-	-
+1394	Cu 2 O	111	-	P
+1395	cyclohexanol	110	-	-
+1396	ZnO-graphene	110	-	P
+1397	C = O	110	-	-
+1398	NaNO2	110	-	-
+1399	WC	110	-	-
+1400	H2Ti3O7	110	-	-
+1401	Sn-TiO2	110	-	P
+1402	BiOI	109	{'BiOI': 98, 'bismuth oxyiodide': 11}	-
+1403	LiF	109	{'LiF': 101, 'lithium fluoride': 4, 'Lithium fluoride': 4}	-
+1404	TNB	109	{'TNB': 21, 'titanium (IV) n-butoxide': 56, 'Titanium (IV) n-butoxide': 32}	P
+1405	Na2O	109	-	-
+1407	Transition metal	109	-	P
+1408	phthalocyanines	109	-	-
+1409	peroxides	109	-	-
+1410	Phosphate	109	-	-
+1411	EPA	109	-	-
+1412	Au0	109	-	-
+1413	Al(OH)3	109	-	-
+1414	SnOx	109	-	-
+1415	TCNQ	109	-	P
+1416	PFA	108	{'PFA': 63, 'paraformaldehyde': 42, 'perfluoroalkoxy alkane': 3}	-
+1417	polyphenols	108	-	-
+1418	2-NP	108	-	P
+1419	2,4,6-TCP	108	-	P
+1420	HOH	108	-	-
+1422	s-triazine	108	-	-
+1423	BiV	108	-	P
+1424	m-xylene	108	-	-
+1425	ReS2	108	-	P
+1426	CaP	107	{'CaP': 10, 'calcium phosphate': 93, 'Calcium phosphate': 4}	-
+1427	Arg	107	{'Arg': 65, 'arginine': 42}	-
+1428	quinoid	107	-	-
+1429	zinc hydroxide	107	-	-
+1430	Ce(NO3)3·6H2O	107	-	-
+1431	TiO2-X	107	-	P
+1432	LI	107	-	-
+1433	Ethylene glycol	107	-	-
+1434	imidazole	107	-	-
+1435	nylon-6	107	-	-
+1436	Ni(NO3)2·6H2O	107	-	-
+1437	H-TiO2	107	-	-
+1438	Cu2O-NPs	107	-	P
+1439	CuFe2O4|Cu	106	-	P
+1440	Glucose	106	-	-
+1441	FePO4	106	-	-
+1442	SeO2	106	-	-
+1443	fullerenes	106	-	-
+1444	ethane	106	-	-
+1445	2,3-DCP	106	-	P
+1446	Melamine	106	-	-
+1449	chlorides	105	-	-
+1450	xanthene	105	-	-
+1452	CuSO4·5H2O	105	-	-
+1453	DES	105	-	P
+1454	vinyl	105	-	-
+1455	Pt(II)	105	-	P
+1456	maleic acid	105	-	-
+1457	hydroperoxide	105	-	-
+1458	copper acetate	105	-	-
+1459	Na2C2O4	105	-	P
+1460	indole	105	-	-
+1461	G-ZnO	105	-	P
+1462	PSZ	105	-	-
+1463	Hf	104	{'Hf': 64, 'hafnium': 33, 'Hafnium': 7}	-
+1464	NH2-MIL-125(Ti)	104	-	P
+1465	SnO2-Sb	104	-	P
+1468	Zn(CH3COO)2	104	-	-
+1469	FeS	104	-	P
+1470	Cd(II)	104	-	P
+1471	Ni 2p3	104	-	-
+1472	Zn36O36	104	-	P
+1473	BP-3	104	-	-
+1474	ZnxCd1-xS	104	-	P
+1475	TiO2-NT	104	-	P
+1476	methyl violet	103	-	-
+1477	alkenes	103	-	-
+1478	tin dioxide	103	-	-
+1479	propanone	103	-	-
+1480	Ca2Fe2O5	103	-	P
+1481	Si3N4	103	-	-
+1482	Titanate	103	-	P
+1483	titanates	103	-	P
+1484	Zn1	103	-	-
+1485	halloysite	103	-	-
+1486	Gd2Ti2O7	103	-	P
+1487	MgTiO3	103	-	P
+1488	NiCo	103	-	-
+1489	SrMoO4	103	-	P
+1490	DCAC	102	{'DCAC': 70, 'dichloroacetylchloride': 9, 'dichloroacetyl chloride': 23}	P
+1492	CH3SH	102	-	P
+1493	fluorescein	102	-	-
+1494	graphene-TiO2	102	-	-
+1495	Na2S2O3	102	-	-
+1496	SrO	102	-	P
+1497	ZnMn2O4	102	-	P
+1498	copper ferrite	102	-	P
+1499	N-Ta2O5	102	-	P
+1500	TMOS	101	{'TMOS': 81, 'Tetramethoxysilane': 4, 'Tetramethyl orthosilicate': 3, 'tetramethyl orthosilicate': 2, 'tetramethoxysilane': 7, 'tetramethylorthosilicate': 4}	-
+1502	Pb(NO3)2	101	-	P
+1503	zincite	101	-	-
+1504	diethyl ether	101	-	-
+1505	Cd(NO3)2·4H2O	101	-	P
+1506	hexavalent chromium	101	-	-
+1507	C=C	101	-	-
+1508	Ti1	101	-	-
+1509	TiO2(A)	101	-	-
+1510	bismuth tungstate	101	-	P
+1511	HOCl	100	{'HOCl': 81, 'hypochlorous acid': 19}	P
+1512	TBP	100	{'TBP': 40, '4-tert-butylpyridine': 60}	P
+1514	tungstic acid	100	-	P
+1515	HNb3O8	100	-	P
+1516	p-CaFe2O4	100	-	P
+1517	molybdenum oxide	100	-	-
+1518	FeOx	100	-	-
+1519	aromatic amines	99	-	P
+1520	titanium alloy	99	-	-
+1521	polyimide	99	-	-
+1522	polysulfide	99	-	P
+1523	Cr2O7	99	-	P
+1525	Ti0	99	-	-
+1526	Ti3C2 MXene	99	-	P
+1527	TiOCl2	99	-	P
+1528	MoP	99	-	P
+1529	CoWO4	99	-	P
+1530	[Bi2O2]2+	99	-	-
+1531	h-ZnO	99	-	P
+1532	TiO2-Cu	99	-	-
+1533	LAHC	98	{'LAHC': 64, 'laurylamine hydrochloride': 34}	P
+1534	Oxide	98	-	-
+1535	γ-alumina	98	-	P
+1536	ferric chloride	98	-	-
+1539	β-naphthol	98	-	P
+1540	b-CN	98	-	P
+1541	KPS	97	{'KPS': 8, 'potassium persulfate': 89}	-
+1542	PEGDA	97	{'PEGDA': 94, 'poly(ethylene glycol) diacrylate': 2, 'polyethylene glycol diacrylate': 1}	-
+1543	carboxylates	97	-	-
+1544	Fe3C	97	-	-
+1545	carbon tetrachloride	97	-	-
+1546	PEG4000	97	-	-
+1547	Pt2+	97	-	-
+1548	aluminosilicate	97	-	-
+1549	Pr3+	97	-	-
+1550	CoPi	97	-	P
+1551	Au-Ag	97	-	-
+1552	SDZO	97	-	-
+1553	ERGO	97	-	P
+1554	PVF	96	{'PVF': 88, 'polyvinyl fluoride': 8}	-
+1555	MAA	96	{'MAA': 46, 'methacrylic acid': 47, 'Methacrylic acid': 3}	-
+1556	ATR	96	-	-
+1557	emeraldine	96	-	-
+1558	Ba2+	96	-	-
+1559	dimethoate	96	-	P
+1560	Er2O3	96	-	-
+1561	Bi(III)	96	-	P
+1562	ZrO	96	-	-
+1563	n-octylamine	96	-	-
+1564	MIL-125-NH2	96	-	-
+1565	chelating agents	95	-	P
+1567	silica sol	95	-	-
+1568	CCM	95	-	P
+1569	e	95	-	P
+1570	InCl3	95	-	P
+1571	N-WO3	95	-	P
+1572	CuCl2·2H2O	95	-	-
+1573	GaP	95	-	-
+1574	Na2SiO3	95	-	-
+1575	Na2Ti3O7	95	-	-
+1576	WO3.H2O	95	-	P
+1577	Re	94	{'Re': 28, 'rhenium': 63, 'Rhenium': 3}	-
+1578	POM	94	{'POM': 18, 'polyoxometalate': 75, 'polyoxymethylene': 1}	P
+1579	BOC	94	-	-
+1580	C-OH	94	-	-
+1581	nano-titania	94	-	-
+1582	ThO2	94	-	P
+1583	Tungsten trioxide	94	-	-
+1584	sugars	94	-	-
+1585	Ni(II)	94	-	P
+1586	organophosphorus	94	-	-
+1588	atomic oxygen	94	-	-
+1589	PAC	94	-	-
+1590	g-C3N4-TSG	94	-	P
+1591	SmFeO3	94	-	P
+1592	CTAC	93	{'CTAC': 81, 'cetyltrimethylammonium chloride': 12}	-
+1593	yellow precipitate	93	-	-
+1594	Ti4O7	93	-	-
+1595	Alumina	93	-	-
+1596	hypochlorite	93	-	-
+1597	copper nitrate	93	-	-
+1598	H 2 O 2	93	-	-
+1599	N-H	93	-	-
+1600	terpineol	93	-	-
+1601	chlorophenol	93	-	-
+1602	PCB	93	-	-
+1604	TS-1	93	-	P
+1605	HMS	93	-	-
+1606	TiO2(T)	93	-	P
+1607	Cr(Ⅵ)	92	-	P
+1608	sulfates	92	-	-
+1609	NiTi	92	-	-
+1610	α-FeOOH	92	-	-
+1611	Ti1−x Sn x O2	92	-	P
+1612	Carbon dioxide	92	-	-
+1613	blue line	92	-	-
+1615	F+	92	-	-
+1616	Cu2SnS3	92	-	P
+1617	ZnO-Ag	92	-	P
+1618	C,N-P25TiO2	92	-	P
+1619	PSS	91	{'PSS': 49, 'poly(styrene sulfonate)': 6, 'poly(sodium 4-styrenesulfonate)': 13, 'poly(styrenesulfonate)': 10, 'polystyrene sulfonate': 9, 'poly(sodium-p-styrenesulfonate)': 4}	-
+1620	PPO	91	{'PPO': 12, 'polypropylene oxide': 3, 'polyphenol': 74, 'poly(propylene oxide)': 2}	-
+1621	hydrate	91	-	-
+1622	Ti–C	91	-	-
+1623	TiO2(101)	91	-	P
+1624	iron(III)	91	-	P
+1625	(NH4)2SO4	91	-	-
+1626	Iron oxide	91	-	-
+1627	nucleic acids	91	-	-
+1628	cholesterol	91	-	-
+1629	chlortoluron	91	-	P
+1630	DPA	91	-	P
+1631	EP	91	-	-
+1632	titanium oxynitride	91	-	-
+1633	CNTiO2	91	-	P
+1634	CAP	90	{'CAP': 12, 'chloramphenicol': 59, 'Chloramphenicol': 19}	P
+1635	N2H4	90	-	-
+1636	cadmium acetate	90	-	P
+1637	S-Twin	90	-	-
+1638	acetylene	90	-	-
+1639	metronidazole	90	-	P
+1640	Ln3+	90	-	-
+1641	2H	90	-	-
+1642	Dy2O3	90	-	P
+1643	Bi2Sn2O7	90	-	-
+1644	3H2O	90	-	-
+1645	FeCo	90	-	P
+1646	S-3D-C-BiOCl	90	-	P
+1647	VSe2	90	-	P
+1648	Ne	89	{'Ne': 6, 'neon': 53, 'Neon': 30}	-
+1649	Cu–O	89	-	-
+1650	CuInSe2	89	-	-
+1651	formamide	89	-	-
+1652	N A	89	-	-
+1653	arsenite	89	-	-
+1654	H2PtCl6·6H2O	89	-	-
+1655	ZnTe	89	-	P
+1656	esters	89	-	-
+1657	Compd	89	-	-
+1658	E2H	89	-	P
+1659	crotonaldehyde	89	-	P
+1660	Ala	89	-	P
+1661	A-SiO2	89	-	-
+1662	dopa	89	-	P
+1663	1T-MoS2	89	-	P
+1664	C-CuO	89	-	P
+1665	FK866	89	-	P
+1666	FeSO4·7H2O	88	-	-
+1668	Rhodamine	88	-	-
+1669	carbohydrate	88	-	-
+1670	phosphates	88	-	-
+1671	Ti–O–N	88	-	-
+1672	covellite	88	-	P
+1673	TiO2-SG	88	-	P
+1674	benzylamine	88	-	P
+1675	N-rGO	88	-	P
+1676	Co3O4-MC	88	-	P
+1677	NiCo2O4	87	-	P
+1678	Na2MoO4	87	-	-
+1679	cyclohexene	87	-	P
+1680	peroxy	87	-	-
+1681	N2 gas	87	-	-
+1682	Pt–TiO2	87	-	P
+1683	polyacrylate	87	-	-
+1684	H-titanate	87	-	-
+1685	SrSO4	87	-	P
+1686	selenate	87	-	P
+1687	Lu2O3	87	-	P
+1688	P-BiVO4	87	-	P
+1689	HBTiO2	87	-	P
+1690	parabens	87	-	P
+1691	TiO2 NA	87	-	P
+1692	cyanamide	86	-	-
+1693	titanium oxide (TiO2)	86	-	-
+1694	Bismuth vanadate	86	-	P
+1695	TiS2	86	-	-
+1697	NiOx	86	-	-
+1698	.OH	86	-	-
+1699	nanoTiO2	86	-	-
+1700	KBrO3	86	-	P
+1701	Co(OH)2	86	-	-
+1702	pCBA	86	-	P
+1703	TiO2-T	86	-	P
+1704	MoSx	86	-	P
+1705	CH3NH3PbI3	86	-	-
+1706	Indole	86	-	P
+1707	g‒C3N4	86	-	P
+1708	TMDs	85	{'TMDs': 30, 'transition metal dichalcogenides': 55}	-
+1710	SiW12	85	-	P
+1711	ferrioxalate	85	-	-
+1712	potassium iodide	85	-	-
+1713	Bi2Ti2O7	85	-	P
+1714	TiB2	85	-	P
+1715	COCl2	85	-	P
+1716	manganese oxide	85	-	-
+1717	Metal oxides	85	-	-
+1718	l-cysteine	85	-	P
+1719	Norfloxacin	85	-	P
+1720	Ni0.6Co0.4(OH)2	85	-	P
+1721	PCBs	84	{'PCBs': 56, 'polychlorinated biphenyls': 26, 'Polychlorinated biphenyls': 2}	-
+1723	1-propanol	84	-	-
+1724	galvanostat	84	-	-
+1725	TIO	84	-	P
+1726	TiO2(110)	84	-	-
+1727	quaternary ammonium	84	-	P
+1728	ethene	84	-	P
+1729	p-ZnO	84	-	P
+1730	H-acid	84	-	P
+1731	bismuth ferrite	84	-	P
+1732	AM-6	84	-	P
+1733	CoMn2O4	84	-	-
+1734	mSiO2	84	-	-
+1735	PZnO	84	-	-
+1736	Rose Bengal	83	-	P
+1737	vanadium oxides	83	-	-
+1738	Cuprous oxide	83	-	P
+1739	Co(NO3)2	83	-	P
+1740	potassium ferrioxalate	83	-	-
+1741	nitrophenol	83	-	-
+1742	NTiO2	83	-	-
+1743	cerium nitrate	83	-	-
+1744	OH*	83	-	-
+1745	butyraldehyde	83	-	P
+1746	carbofuran	83	-	P
+1747	CoS	83	-	P
+1748	CoS2	83	-	P
+1749	ZnTi	83	-	P
+1750	Bi1-xVO4	83	-	P
+1751	ZnO-NA	83	-	P
+1752	Pbi-ZnO-g-C3N4	83	-	P
+1753	Cs+	82	{'Cs+': 38, 'cesium': 44}	-
+1754	EDOT	82	{'EDOT': 61, '3,4-ethylenedioxythiophene': 17, '3,4-Ethylenedioxythiophene': 4}	-
+1755	NiGa2O4	82	-	P
+1756	o-xylene	82	-	-
+1758	Na2MoO4·2H2O	82	-	-
+1759	dioxins	82	-	-
+1760	Ti2	82	-	-
+1761	nickel nitrate	82	-	P
+1762	potassium iodide (KI)	82	-	-
+1763	diazo	82	-	-
+1764	TiO2-graphene	82	-	-
+1765	Nitrate	82	-	-
+1766	hydride	82	-	-
+1767	NiGa	82	-	P
+1768	CM-n-TiO2	82	-	P
+1769	In2O3-CeO2	82	-	P
+1770	SubPc-Br	82	-	P
+1771	PDINH	82	-	P
+1772	BiVO4-V	82	-	P
+1773	E-TiO2	82	-	P
+1774	ANT	81	{'ANT': 2, 'anthracene': 79}	P
+1775	•O2 −	81	-	P
+1776	tungstates	81	-	P
+1778	zinc blende	81	-	-
+1779	Malachite Green	81	-	P
+1780	Zirconia	81	-	-
+1781	˙OH	81	-	-
+1782	ethoxy	81	-	-
+1783	2-nitrophenol	81	-	P
+1784	metolachlor	81	-	P
+1785	MMS	81	-	P
+1786	MAPbI3	81	-	P
+1787	Bi2Fe4O9	81	-	P
+1788	2-MIB	81	-	-
+1789	Ag|AgNbO3	81	-	P
+1790	4-MBA	80	{'4-MBA': 69, '4-mercaptobenzoic acid': 11}	P
+1791	penicillin	80	-	-
+1792	perchlorate	80	-	P
+1793	super-oxide	80	-	-
+1794	Superoxide	80	-	-
+1795	bromide	80	-	-
+1796	vermiculite	80	-	-
+1797	Al(NO3)3·9H2O	80	-	-
+1798	Pulgarin	80	-	-
+1799	MoO3−x	80	-	P
+1800	Na3PO4	80	-	-
+1801	Bi2SiO5	80	-	P
+1802	Se2−	80	-	P
+1803	o-toluidine	80	-	P
+1804	nitrophenols	80	-	P
+1805	p-CN	80	-	P
+1806	MoO4	80	-	P
+1807	Zn34MHiO36	80	-	P
+1808	Ti-O-C	79	-	-
+1809	K2O	79	-	-
+1810	F−	79	-	P
+1811	Malachite green	79	-	-
+1812	CH2Cl2	79	-	-
+1813	In3+	79	-	P
+1815	Fe+3	79	-	-
+1816	ammonium nitrate	79	-	-
+1817	methicillin	79	-	-
+1818	Sn(IV)	79	-	P
+1819	Parylene	79	-	P
+1820	1 0 0	79	-	-
+1822	ABT	79	-	P
+1823	NiSe2	79	-	P
+1824	Zn3(PO4)2	79	-	P
+1825	Pd-CdS	79	-	P
+1826	Bi-HA	79	-	P
+1827	ε-MnO2	79	-	P
+1828	CTD	79	-	P
+1829	MEK	78	{'MEK': 26, 'Methyl ethyl ketone': 10, 'methyl ethyl ketone': 33, 'methylethylketone': 9}	-
+1831	Ti 2p, O 1s	78	-	-
+1833	S2	78	-	-
+1834	DMPO-O2	78	-	P
+1835	tungsten oxide (WO3)	78	-	-
+1836	Fe3	78	-	-
+1837	MIL-53(Al)	78	-	P
+1838	serpentine	78	-	-
+1839	TG-DTA	78	-	P
+1840	HO	78	-	-
+1841	ÂºC	78	-	P
+1842	PbI2	78	-	P
+1843	BST	78	-	P
+1844	Sio2	78	-	P
+1845	Znln2S4	78	-	P
+1846	Aspirin	78	-	P
+1847	ETBE	78	-	P
+1848	CdSO4	77	{'CdSO4': 60, 'cadmium sulfate': 17}	P
+1849	TOPO	77	{'TOPO': 61, 'trioctylphosphine oxide': 12, 'tri-n-octylphosphine oxide': 4}	-
+1850	C = C	77	-	-
+1851	Zn2SiO4	77	-	P
+1852	O K	77	-	P
+1853	Ti+	77	-	-
+1854	NAP	77	-	P
+1855	Ti–F	77	-	-
+1856	sodium azide	77	-	-
+1857	malic acid	77	-	P
+1858	Na2Ti6O13	77	-	P
+1859	TiO2-10	77	-	P
+1860	levofloxacin	77	-	P
+1861	(Co,Ni)-SnO2	77	-	P
+1862	CNZ	77	-	P
+1863	C3N4-SnO2	77	-	P
+1864	FITC	76	{'FITC': 65, 'Fluorescein isothiocyanate': 2, 'fluorescein isothiocyanate': 9}	-
+1865	Asp	76	{'Asp': 64, 'aspartic acid': 12}	-
+1866	(NH4)2S2O8	76	-	-
+1867	sodium phosphate	76	-	-
+1868	formazan	76	-	-
+1869	glutathione	76	-	P
+1870	FeWO4	76	-	P
+1871	Ti 2p and O 1s	76	-	-
+1872	NaI	76	-	-
+1873	Ni-P	76	-	-
+1874	13CO2	76	-	-
+1875	Duran	76	-	-
+1876	Si-O	76	-	-
+1877	LaAlO3	76	-	-
+1878	p-NiO	76	-	-
+1879	Co2O3	76	-	P
+1880	Fe2O3-TiO2	76	-	-
+1881	He-Ne	76	-	-
+1882	Hg0	76	-	P
+1883	CuWO4-x	76	-	P
+1884	SnSe2	76	-	P
+1885	Fe-B	76	-	P
+1886	GdVO4	76	-	-
+1887	DMS	75	{'DMS': 54, 'dimethyl sulfide': 21}	-
+1888	His	75	{'His': 55, 'histidine': 20}	-
+1889	Titanium tetrachloride	75	-	-
+1890	Titanium butoxide	75	-	-
+1891	nucleic acid	75	-	-
+1892	Kato	75	-	-
+1893	titanium n-butoxide	75	-	-
+1894	orange G	75	-	P
+1895	DMAB	75	-	-
+1896	arsenate	75	-	P
+1897	Bi12GeO20	75	-	P
+1898	ethanolamine	75	-	-
+1899	superoxide anions	75	-	-
+1900	trititanate	75	-	P
+1902	Paraquat	75	-	P
+1903	CaAl2O4	75	-	P
+1904	-COOH	75	-	-
+1905	TMO	75	-	P
+1906	bromate	75	-	-
+1907	Avatar	75	-	-
+1909	SA-g-C3N4	75	-	P
+1910	Fe3O4-BC	75	-	P
+1911	Fe3O4-TiO2	75	-	P
+1912	CuAl2O4	75	-	P
+1913	CFO	75	-	P
+1914	Cu2O(SeO3)	75	-	P
+1915	CoFeTiO2	75	-	P
+1916	PHB	74	{'PHB': 64, 'polyhydroxybutyrate': 4, 'poly(3-hydroxybutyrate)': 6}	-
+1917	MCP	74	{'MCP': 12, 'monocrotophos': 62}	P
+1918	4-CC	74	{'4-CC': 30, '4-chlorocatechol': 44}	P
+1919	APTMS	74	{'APTMS': 36, 'aminopropyltrimethoxysilane': 6, '3-aminopropyltrimethoxysilane': 24, '(3-aminopropyl)trimethoxysilane': 6, '(3-Aminopropyl) trimethoxysilane': 2}	-
+1920	PIP	74	{'PIP': 9, 'Piperazine': 2, 'piperazine': 63}	-
+1921	p-chlorophenol	74	-	P
+1922	permanganate	74	-	-
+1923	ZnSO4·7H2O	74	-	-
+1924	C2H6O	74	-	-
+1926	carbaryl	74	-	P
+1927	Phaser	74	-	-
+1928	Cr(OH)3	74	-	-
+1929	HCOH	74	-	P
+1930	-Fe2O3	74	-	P
+1931	2-Propanol	74	-	-
+1932	H–O–H	74	-	-
+1933	DIMP	74	-	P
+1934	2 0 0	74	-	P
+1935	S-scheme	74	-	P
+1936	DAC	74	-	P
+1937	K-BiFeO3	74	-	P
+1938	Au0.1Ag0.9	74	-	P
+1939	ZnP	74	-	P
+1940	Ho2O3	74	-	P
+1941	magnetite (Fe3O4)	73	-	-
+1942	rutile	73	-	-
+1943	P-25TiO2	73	-	P
+1944	DTPA	73	-	P
+1945	TEMPOL	73	-	P
+1947	CoCl2	73	-	-
+1948	Ceria	73	-	-
+1949	hydrotalcite	73	-	-
+1950	bismuth oxides	73	-	P
+1951	eosin	73	-	-
+1952	(NH4)6Mo7O24·4H2O	73	-	-
+1953	thiacloprid	73	-	P
+1954	N O	73	-	-
+1955	KHCO3	73	-	P
+1956	NL-TiO2-x	73	-	P
+1957	AgTaO3	73	-	P
+1958	p-SiO2-NH3-Fe11POM	73	-	P
+1959	EGCG	72	{'EGCG': 60, 'epigallocatechin gallate': 10, 'Epigallocatechin gallate': 2}	-
+1960	Fe2P	72	-	P
+1961	Plexiglas	72	-	-
+1962	Oxoid	72	-	-
+1963	titanium sulfate	72	-	P
+1965	S element	72	-	-
+1966	Porphyrin	72	-	-
+1967	p-CuO	72	-	P
+1968	light green	72	-	-
+1969	cyclohexanone	72	-	-
+1970	CH3COCH3	72	-	-
+1971	OMS-2	72	-	P
+1972	Benzoquinone	72	-	P
+1973	Ru(II)	72	-	-
+1974	2H-MoS2	72	-	P
+1975	TiO2-HT	72	-	P
+1976	Zn34SmO36	72	-	P
+1977	Co2P	72	-	P
+1978	C–SnS2	72	-	P
+1979	PdS	72	-	P
+1980	CuSx	72	-	P
+1981	DNP	71	{'DNP': 49, '2,4-dinitrophenol': 22}	P
+1982	BaP	71	{'BaP': 69, 'benzo[a]pyrene': 2}	-
+1983	P2O5	71	-	-
+1984	S-TWIN	71	-	-
+1985	Lanthanide	71	-	P
+1986	Ni(NO3)2	71	-	P
+1987	Zn(Ac)2	71	-	-
+1988	strontium titanate	71	-	-
+1989	Metal oxide	71	-	-
+1990	carbide	71	-	-
+1991	quinoline	71	-	P
+1992	Ti3+ 2p3	71	-	P
+1993	M·TiO2	71	-	P
+1994	dioxin	71	-	P
+1995	NiCl2·6H2O	71	-	-
+1996	oxygenates	71	-	-
+1997	LiOH	71	-	-
+1998	illite	71	-	-
+1999	R-WO3	71	-	P
+2000	AR-B	70	{'AR-B': 10, 'Acid Red B': 60}	P
+2001	HDA	70	{'HDA': 23, 'hexadecylamine': 41, 'Hexadecylamine': 6}	-
+2002	REOs	70	{'REOs': 1, 'rare earth oxides': 57, 'rare-earth oxides': 12}	-
+2003	C6H8O7	70	-	-
+2004	Sb3+	70	-	P
+2005	Thiourea	70	-	P
+2006	Na2S2O8	70	-	-
+2007	ferric nitrate	70	-	P
+2008	CdO2	70	-	P
+2009	niobium oxide	70	-	-
+2010	Brij	70	-	P
+2011	methyl-orange	70	-	-
+2012	-NH2	70	-	-
+2013	Cu element	70	-	-
+2014	mPMMA	70	-	P
+2015	H-ZSM-5	70	-	P
+2016	DCFH-DA	70	-	P
+2017	4-NA	70	-	P
+2018	PTZ	70	-	P
+2019	CA20	70	-	P
+2020	TPNC	69	-	P
+2021	Citric acid	69	-	-
+2022	N HCl	69	-	P
+2023	hydroxyl oxygen	69	-	-
+2024	C3H8O	69	-	-
+2025	(BiO)2CO3	69	-	-
+2026	flavonoids	69	-	-
+2027	anatase	69	-	-
+2028	Ti(OC3H7)4	69	-	-
+2029	atenolol	69	-	-
+2030	KTaO3	69	-	P
+2031	Na x H2−x Ti3O7	69	-	P
+2032	2-butanone	69	-	-
+2033	17β-estradiol	69	-	-
+2034	Ti 3 +	69	-	P
+2035	MIL(125)-NH2	69	-	P
+2036	PVC-10h	69	-	P
+2037	Titanium Dioxide	68	-	-
+2038	zircon	68	-	-
+2040	Ti(OCH(CH3)2)4	68	-	-
+2041	HNO	68	-	-
+2042	VO2(M)	68	-	-
+2043	sillenite	68	-	P
+2044	C6H12O6	68	-	-
+2045	organosilane	68	-	-
+2046	HCOO−	68	-	-
+2047	benzamide	68	-	P
+2048	chloroplatinic acid	68	-	-
+2049	TiF3	68	-	P
+2050	mordenite	68	-	P
+2051	PEG2000	68	-	-
+2052	-C	68	-	P
+2053	SiP	68	-	P
+2054	DMC	67	{'DMC': 45, 'dimethyl carbonate': 22}	-
+2055	PDDA	67	{'PDDA': 41, 'poly(diallyldimethylammonium chloride)': 9, 'polydiallyldimethylammonium chloride': 7, 'Poly(diallyldimethylammonium chloride)': 10}	-
+2056	BTA	67	{'BTA': 21, 'benzotriazole': 30, '1H-benzotriazole': 9, 'Benzotriazole': 7}	-
+2057	EGDMA	67	{'EGDMA': 57, 'ethylene glycol dimethacrylate': 9, 'Ethylene glycol dimethacrylate': 1}	-
+2058	NPX	67	{'NPX': 7, 'naproxen': 60}	P
+2059	thiols	67	-	-
+2060	streptomycin	67	-	-
+2061	NiCl2	67	-	-
+2062	PbWO4	67	-	P
+2063	Iodine	67	-	-
+2064	copper chloride	67	-	-
+2065	sodium sulfate (Na2SO4)	67	-	-
+2066	nafion	67	-	-
+2067	3-CP	67	-	P
+2068	iron nitrate	67	-	-
+2069	SrAl2O4	67	-	-
+2070	TiO2−	67	-	P
+2071	La2Zr2O7	67	-	P
+2072	PATP	67	-	-
+2073	PI-g-C3N4	67	-	P
+2074	SnO2-Sb2O3	67	-	P
+2075	K0.3WO3	67	-	-
+2076	g-C3N4-Fe2O3	67	-	P
+2077	TiO2-MIL-101	67	-	P
+2078	v-In2O3	67	-	P
+2079	O-C3N4	67	-	P
+2080	HMDS	66	{'HMDS': 38, 'Hexamethyldisilazane': 3, 'hexamethyldisilazane': 22, 'hexamethyldisilane': 1, '1,1,1,3,3,3-hexamethyldisilazane': 1, '1,1,1,3,3,3-hexamethyl disilazane': 1}	-
+2081	Ti oxide	66	-	P
+2082	HNO2	66	-	-
+2083	carbonyls	66	-	-
+2084	Bismuth oxide	66	-	P
+2085	C16H36O4Ti	66	-	-
+2086	Ti(OiPr)4	66	-	-
+2087	Cu-Ka	66	-	P
+2089	titanium (IV) butoxide	66	-	-
+2090	borate	66	-	-
+2091	L-cysteine	66	-	-
+2092	Sr(NO3)2	66	-	P
+2093	Oxone	66	-	P
+2094	Zn(NO3)2.6H2O	66	-	-
+2095	Zinc nitrate	66	-	-
+2096	malonic acid	66	-	P
+2097	nano-MoS2	66	-	P
+2098	CuCo2O4	66	-	P
+2099	ZnMoO4	66	-	P
+2100	glass ceramics	66	-	-
+2101	LaVO4	66	-	P
+2102	N-CQDs	66	-	P
+2103	loperamide	66	-	P
+2104	PCA-β-CD	66	-	P
+2105	DEZ	65	{'DEZ': 32, 'Diethyl zinc': 17, 'diethylzinc': 16}	-
+2106	DAPI	65	{'DAPI': 54, '6-diamidino-2-phenylindole': 2, '4′,6-diamidino-2-phenylindole': 6, '4,6-diamidino-2-phenylindole': 3}	-
+2107	NBT	65	{'NBT': 39, 'nitroblue tetrazolium': 19, 'Nitroblue tetrazolium': 7}	P
+2108	butane	65	-	-
+2109	Triton	65	-	-
+2110	Zn element	65	-	-
+2111	titanol	65	-	-
+2112	imidazolium	65	-	-
+2113	FeCl2·4H2O	65	-	-
+2114	primary amine	65	-	-
+2115	U(VI)	65	-	P
+2116	Sc2O3	65	-	P
+2118	Pt 4f7	65	-	P
+2119	Oxalic acid	65	-	-
+2120	ZnSe(en)0.5	65	-	P
+2121	ferric oxide	65	-	-
+2122	MgAl2O4	65	-	-
+2123	CuO-Cu2O	65	-	-
+2124	FePt	65	-	-
+2125	N2H4·H2O	65	-	-
+2126	ZnO-g-C3N4	65	-	P
+2127	FP-Fe2O3-STA	65	-	-
+2128	K0 · 3WO3	65	-	-
+2129	Cu(OH)2 NRA	65	-	-
+2130	Fe3Pt	65	-	P
+2131	POFA	65	-	-
+2132	TiO2|Ti|WO3	65	-	P
+2133	ferric hydroxide	64	-	P
+2134	silver metal	64	-	-
+2136	1–6	64	-	-
+2137	Heritage	64	-	-
+2138	propionaldehyde	64	-	P
+2139	Pd0	64	-	P
+2140	H2PO4	64	-	P
+2141	Xenon lamp	64	-	-
+2142	AOT	64	-	P
+2143	sodium bicarbonate	64	-	-
+2144	superoxide radicals	64	-	-
+2145	alkane	64	-	-
+2146	indium sulfide	64	-	P
+2147	Bi5Nb3O15	64	-	P
+2148	magenta	64	-	-
+2149	Ti3O5	64	-	-
+2150	HgO	64	-	-
+2151	1 1 0	64	-	-
+2152	AFB1	64	-	-
+2153	cobalt nitrate	64	-	P
+2154	CN heterocycles	64	-	-
+2155	In(OH) y S z	64	-	P
+2156	V2O5-TiO2	64	-	P
+2157	polyacrylic	64	-	-
+2158	UiO-67	64	-	P
+2159	4-Cp	64	-	P
+2160	Nv-rich-CN	64	-	P
+2161	N-Ag	64	-	P
+2162	CdFe2O4	64	-	P
+2163	ZnNb2O6	64	-	P
+2164	CoTe2	64	-	P
+2165	OMPT	64	-	P
+2166	Tyr	63	{'Tyr': 14, 'tyrosine': 49}	P
+2167	8–10	63	-	-
+2168	Ti-O-Si	63	-	-
+2169	isopropoxide	63	-	-
+2170	3M KCl	63	-	P
+2171	AEROXIDE	63	-	-
+2172	Ti-N	63	-	-
+2173	AgAlO2	63	-	P
+2174	BuOH	63	-	-
+2175	*OH	63	-	-
+2176	bismuth nitrate pentahydrate	63	-	-
+2177	cadmium nitrate	63	-	P
+2178	BSG	63	-	-
+2179	CH3CSNH2	63	-	P
+2180	VO2(B)	63	-	-
+2181	Titanium oxide (TiO2)	63	-	-
+2183	PtO2	63	-	P
+2184	2-naphthol	63	-	P
+2185	aliphatic acids	63	-	P
+2186	MnS	63	-	P
+2187	Polystyrene	63	-	-
+2188	halides	63	-	-
+2189	sulfoxide	63	-	-
+2190	Cd0.5Zn0.5S	63	-	P
+2191	aluminate	63	-	-
+2192	AgNbO3	63	-	P
+2193	Flumequine	63	-	P
+2194	ThB	63	-	P
+2195	hexaniobate	63	-	P
+2196	CeOx	63	-	P
+2197	trimethoprim	63	-	P
+2198	β-ZnMoO4	63	-	P
+2199	ZnCr2O4	63	-	P
+2200	AmT	63	-	P
+2201	PLLA	62	{'PLLA': 54, 'poly(L-lactide)': 2, 'poly(l-lactide)': 2, 'poly(L-lactic acid)': 1, 'poly(l-lactic acid)': 1, 'Poly(l-lactic acid)': 2}	-
+2202	tryptone	62	-	-
+2203	H4SiW12O40	62	-	P
+2204	OH2	62	-	-
+2205	triiodide	62	-	P
+2207	methyl alcohol	62	-	-
+2208	Methane	62	-	-
+2209	9–13	62	-	-
+2210	m-ZrO2	62	-	P
+2211	aldol	62	-	-
+2212	Mn(II)	62	-	P
+2213	(Bi2O2)2+	62	-	P
+2214	sulfone	62	-	-
+2215	TiV oxide	62	-	P
+2216	Eu(NO3)3	62	-	P
+2217	Tiron	62	-	P
+2218	rose bengal	62	-	-
+2219	2,4,6-TBP	62	-	P
+2220	CuMoO4	62	-	P
+2221	DCAA	62	-	P
+2222	isothiazolin-3-ones	62	-	-
+2223	copper(I) oxide	62	-	P
+2224	O-Ti-O	62	-	-
+2225	tBuOH	62	-	P
+2226	Cu2(OH)PO4	62	-	-
+2227	mTiO2	62	-	P
+2228	TiO2(NT)	62	-	P
+2229	AZATC	62	-	P
+2230	BiF3	62	-	-
+2231	Mn3O4-MnO2	62	-	P
+2232	Cu 2 S	62	-	P
+2233	GeO2	61	-	P
+2234	TiOH2	61	-	-
+2235	titanium chloride	61	-	-
+2236	LiNO3	61	-	-
+2237	Copper oxide	61	-	-
+2238	phenolic hydroxyl	61	-	-
+2239	sulfonic	61	-	-
+2240	chalcopyrite	61	-	P
+2241	SiO4	61	-	-
+2242	PCO	61	-	P
