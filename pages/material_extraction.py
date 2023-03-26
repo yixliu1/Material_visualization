@@ -5,16 +5,17 @@ import json
 from copy import deepcopy
 
 
-f = open('data/extraction/doi_text.json')
-readin_data = json.load(f)
-readin_df = pd.read_csv('data/extraction/extract.csv')
 
-st.session_state['original data'] = readin_data
-st.session_state["option"] = deepcopy(readin_data)
-st.session_state['extract_df'] = readin_df
 
 
 def display():
+    f = open('data/extraction/doi_text.json')
+    readin_data = json.load(f)
+    readin_df = pd.read_csv('data/extraction/extract.csv')
+
+    st.session_state['original data'] = readin_data
+    st.session_state["option"] = deepcopy(readin_data)
+    st.session_state['extract_df'] = readin_df
     st.title("Materials data extraction")
     placeholder = st.empty()
 
