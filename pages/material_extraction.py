@@ -18,7 +18,7 @@ def display():
     st.session_state['extract_df'] = readin_df
     t1, t2 = st.columns([0.1, 1])
     t1.image('src/title.png')
-    t2.title("Materials data extraction")
+    t2.title("Pervoksite Solar Cell FAIR Dataset Demo")
     with st.expander('', expanded=True):
         placeholder = st.empty()
 
@@ -45,7 +45,7 @@ def display():
     s5.image('src/UNSW.png', width=150)
     s6.image('src/green.png', width=200)
 
-    s3, s4 = st.columns([3.5,1])
+    s3, s4 = st.columns([2.5,1])
     s3.caption('Copyright 2023 University of New South Wales')
     s4.caption('Technical Support GreenDynamics Pty. Ltd')
 
