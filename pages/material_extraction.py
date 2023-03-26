@@ -95,9 +95,10 @@ def extract():
     cell_df = info[cell_cols]
     stability_df = info[stability_cols]
 
-    st.write('**Doi**')
-    make_table(doi_df)
-    st.write("**Stack Information**")
+    st.write('**Paper Link**')
+    table = pd.DataFrame(index=['doi'], data=list(doi_df.values)[0][0].replace('.json', ''), dtype='string', columns=['Record'])
+    st.table(table.style.hide_columns())
+    st.write("**Stack & Synthesis Information**")
     make_table(stack_df)
     st.write('**Cell Information**')
     make_table(cell_df)
