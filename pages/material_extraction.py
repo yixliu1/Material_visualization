@@ -39,8 +39,9 @@ def display():
 
     if s2.button("Extract"):
         extract()
-    s1.image('src/UNSW.jpg', width=150)
-    s2.image('src/g.jpg', width=60)
+    s5, s6 = st.columns([11, 1])
+    s5.image('src/UNSW.jpg', width=150)
+    s6.image('src/g.jpg', width=60)
 
     s3, s4 = st.columns([3.5,1])
     s3.caption('Copyright 2023 University of New South Wales')
