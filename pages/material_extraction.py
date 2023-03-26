@@ -16,9 +16,11 @@ def display():
     st.session_state['original data'] = readin_data
     st.session_state["option"] = deepcopy(readin_data)
     st.session_state['extract_df'] = readin_df
-    t1, t2 = st.columns([0.1, 1])
-    t1.image('src/title.png')
-    t2.title("Pervoksite Solar Cell FAIR Dataset Demo")
+    t1, t2 = st.columns([1, 0.2])
+    st.image('src/title.png', width=150)
+    st.title("Pervoksite Solar Cell FAIR Dataset Demo")
+    st.write('Knowledge frame from: https://www.nature.com/articles/s41560-021-00941-3.')
+    st.write('All examples are perovskite-related papers published after 2021.03. Records are exactly as our fine-tuned GPT-3 model.')
     with st.expander('', expanded=True):
         placeholder = st.empty()
 
@@ -41,13 +43,16 @@ def display():
 
     if s2.button("Extract"):
         extract()
-    s5, s6 = st.columns([4.5, 1])
-    s5.image('src/UNSW.png', width=150)
-    s6.image('src/green.png', width=200)
+    st.image('src/logo.png', width=300)
+    # s5, s6 = st.columns([1, 4.5])
+    # s5.image('src/UNSW.png', width=150)
+    # s6.image('src/green.png', width=200)
 
     s3, s4 = st.columns([2.5,1])
-    s3.caption('Copyright 2023 University of New South Wales')
-    s4.caption('Technical Support GreenDynamics Pty. Ltd')
+    url = 'http://www.greendynamics.com.au'
+    # st.caption('**Copyright** 2023 University of New South Wales | **Technical Support** [GreenDynamics Pty. Ltd](%s)', url)
+    # s4.caption('')
+    st.caption(f"**Copyright** 2023 University of New South Wales | **Technical Support** [GreenDynamics Pty. Ltd]({url})")
 
 
 
