@@ -16,7 +16,9 @@ def display():
     st.session_state['original data'] = readin_data
     st.session_state["option"] = deepcopy(readin_data)
     st.session_state['extract_df'] = readin_df
-    st.title("Materials data extraction")
+    t1, t2 = st.columns([0.1, 1])
+    t1.image('src/title.png')
+    t2.title("Materials data extraction")
     with st.expander('', expanded=True):
         placeholder = st.empty()
 
@@ -39,9 +41,9 @@ def display():
 
     if s2.button("Extract"):
         extract()
-    s5, s6 = st.columns([11, 1])
-    s5.image('src/UNSW.jpg', width=150)
-    s6.image('src/g.jpg', width=60)
+    s5, s6 = st.columns([4.5, 1])
+    s5.image('src/UNSW.png', width=150)
+    s6.image('src/green.png', width=200)
 
     s3, s4 = st.columns([3.5,1])
     s3.caption('Copyright 2023 University of New South Wales')
@@ -75,29 +77,23 @@ def extract():
     doi = st.session_state['doi']
 
     info = df[df['doi'] == doi]
+    # st.write(info)
 
     doi_cols = [i for i in col if 'doi' in i]
-    stack_cols = [i for i in col if 'Substract' in i or 'ETL' in i or 'Perovskite' in i]
-    htl_cols = [i for i in col if 'HTL' in i]
-    back_cols = [i for i in col if 'Backcontact' in i]
+    stack_cols = [i for i in col if 'Substrate' in i or 'ETL' in i or 'Perovskite' in i
+                  or 'HTL' in i or 'Backcontact' in i]
     cell_cols = [i for i in col if 'Cell' in i or 'Module' in i]
     stability_cols = [i for i in col if 'Stability' in i]
 
     doi_df = info[doi_cols]
     stack_df = info[stack_cols]
-    htl_df = info[htl_cols]
-    back_df = info[back_cols]
     cell_df = info[cell_cols]
     stability_df = info[stability_cols]
 
     st.write('**Doi**')
     make_table(doi_df)
-    st.write("**HTL Information**")
-    make_table(stack_df)
-    st.write("**Backcontact Information**")
-    make_table(htl_df)
     st.write("**Stack Information**")
-    make_table(back_df)
+    make_table(stack_df)
     st.write('**Cell Information**')
     make_table(cell_df)
     st.write('**Stability Information**')
