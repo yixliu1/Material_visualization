@@ -28,8 +28,8 @@ def delete_bottom(df):
 
 def display():
     # st.image('src/title.png')
-    t1, t2 = st.columns([0.1, 1])
-    t1.image('src/g.jpg')
+    t1, t2 = st.columns([0.4, 1])
+    t1.image('src/green.png')
     t2.title("BOXVIA")
     st.text("Bayesian Optimization EXecutable and VIsualizable Application")
 
@@ -129,6 +129,7 @@ def run_parameter(uploaded_file):
                 fn_df = pd.read_csv(fn)
             except:
                 st.write("File doesn't exist. Check if the file is places at data/config directory")
+            # st.write(fn_df)
             try:
                 if fn_df.iloc[0,0].lower() == 'max':
                     maxx = 0

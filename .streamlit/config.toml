@@ -4,3 +4,16 @@ backgroundColor = "#d2e3d3"
 secondaryBackgroundColor = "#a1c1ae"
 textColor = "#4E3826"
 font = "sans serif"
+
+[server]
+port = 8501
+headless=true # This will eliminate automatically open browser
+enableCORS = false
+enableXsrfProtection = false
+enableWebsocketCompression = true
+enableStaticServing = true
+
+
+[browser] 
+# serverAddress = "masterai.com.au" # Put your Local IP or Domain Name
+#serverPort = 8501
